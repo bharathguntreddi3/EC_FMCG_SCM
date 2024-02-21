@@ -1,0 +1,902 @@
+[
+  {
+    "purchase_id": 1,
+    "supplier_id": 49,
+    "product_id": 55,
+    "purchase_quantity": 11,
+    "unit_price": 19,
+    "order_date": "2022-04-21",
+    "delivery_date": "2022-05-24"
+  },
+  {
+    "purchase_id": 2,
+    "supplier_id": 3,
+    "product_id": 25,
+    "purchase_quantity": 27,
+    "unit_price": 46,
+    "order_date": "2022-05-06",
+    "delivery_date": "2022-07-31"
+  },
+  {
+    "purchase_id": 3,
+    "supplier_id": 45,
+    "product_id": 29,
+    "purchase_quantity": 40,
+    "unit_price": 20,
+    "order_date": "2022-04-17",
+    "delivery_date": "2022-08-17"
+  },
+  {
+    "purchase_id": 4,
+    "supplier_id": 44,
+    "product_id": 9,
+    "purchase_quantity": 46,
+    "unit_price": 48,
+    "order_date": "2022-04-19",
+    "delivery_date": "2022-07-18"
+  },
+  {
+    "purchase_id": 5,
+    "supplier_id": 29,
+    "product_id": 1,
+    "purchase_quantity": 43,
+    "unit_price": 38,
+    "order_date": "2022-05-06",
+    "delivery_date": "2022-09-17"
+  },
+  {
+    "purchase_id": 6,
+    "supplier_id": 4,
+    "product_id": 3,
+    "purchase_quantity": 20,
+    "unit_price": 54,
+    "order_date": "2022-05-05",
+    "delivery_date": "2022-09-05"
+  },
+  {
+    "purchase_id": 7,
+    "supplier_id": 29,
+    "product_id": 60,
+    "purchase_quantity": 29,
+    "unit_price": 98,
+    "order_date": "2022-04-17",
+    "delivery_date": "2022-05-25"
+  },
+  {
+    "purchase_id": 8,
+    "supplier_id": 46,
+    "product_id": 70,
+    "purchase_quantity": 35,
+    "unit_price": 80,
+    "order_date": "2022-05-03",
+    "delivery_date": "2022-06-09"
+  },
+  {
+    "purchase_id": 9,
+    "supplier_id": 8,
+    "product_id": 6,
+    "purchase_quantity": 17,
+    "unit_price": 56,
+    "order_date": "2022-04-15",
+    "delivery_date": "2022-06-22"
+  },
+  {
+    "purchase_id": 10,
+    "supplier_id": 32,
+    "product_id": 93,
+    "purchase_quantity": 33,
+    "unit_price": 60,
+    "order_date": "2022-05-12",
+    "delivery_date": "2022-06-24"
+  },
+  {
+    "purchase_id": 11,
+    "supplier_id": 10,
+    "product_id": 24,
+    "purchase_quantity": 43,
+    "unit_price": 29,
+    "order_date": "2022-04-29",
+    "delivery_date": "2022-07-07"
+  },
+  {
+    "purchase_id": 12,
+    "supplier_id": 33,
+    "product_id": 96,
+    "purchase_quantity": 40,
+    "unit_price": 29,
+    "order_date": "2022-05-06",
+    "delivery_date": "2022-10-03"
+  },
+  {
+    "purchase_id": 13,
+    "supplier_id": 13,
+    "product_id": 59,
+    "purchase_quantity": 30,
+    "unit_price": 70,
+    "order_date": "2022-04-23",
+    "delivery_date": "2022-07-28"
+  },
+  {
+    "purchase_id": 14,
+    "supplier_id": 36,
+    "product_id": 52,
+    "purchase_quantity": 34,
+    "unit_price": 45,
+    "order_date": "2022-04-25",
+    "delivery_date": "2022-11-11"
+  },
+  {
+    "purchase_id": 15,
+    "supplier_id": 15,
+    "product_id": 8,
+    "purchase_quantity": 44,
+    "unit_price": 45,
+    "order_date": "2022-05-01",
+    "delivery_date": "2022-09-11"
+  },
+  {
+    "purchase_id": 16,
+    "supplier_id": 42,
+    "product_id": 40,
+    "purchase_quantity": 27,
+    "unit_price": 44,
+    "order_date": "2022-05-12",
+    "delivery_date": "2022-07-09"
+  },
+  {
+    "purchase_id": 17,
+    "supplier_id": 30,
+    "product_id": 15,
+    "purchase_quantity": 43,
+    "unit_price": 26,
+    "order_date": "2022-04-23",
+    "delivery_date": "2022-05-17"
+  },
+  {
+    "purchase_id": 18,
+    "supplier_id": 7,
+    "product_id": 21,
+    "purchase_quantity": 20,
+    "unit_price": 45,
+    "order_date": "2022-04-23",
+    "delivery_date": "2022-05-25"
+  },
+  {
+    "purchase_id": 19,
+    "supplier_id": 29,
+    "product_id": 46,
+    "purchase_quantity": 49,
+    "unit_price": 85,
+    "order_date": "2022-05-08",
+    "delivery_date": "2022-11-15"
+  },
+  {
+    "purchase_id": 20,
+    "supplier_id": 4,
+    "product_id": 32,
+    "purchase_quantity": 39,
+    "unit_price": 19,
+    "order_date": "2022-04-15",
+    "delivery_date": "2022-07-10"
+  },
+  {
+    "purchase_id": 21,
+    "supplier_id": 33,
+    "product_id": 42,
+    "purchase_quantity": 14,
+    "unit_price": 8,
+    "order_date": "2022-05-14",
+    "delivery_date": "2022-07-28"
+  },
+  {
+    "purchase_id": 22,
+    "supplier_id": 31,
+    "product_id": 20,
+    "purchase_quantity": 1,
+    "unit_price": 63,
+    "order_date": "2022-05-09",
+    "delivery_date": "2022-09-01"
+  },
+  {
+    "purchase_id": 23,
+    "supplier_id": 23,
+    "product_id": 1,
+    "purchase_quantity": 38,
+    "unit_price": 18,
+    "order_date": "2022-04-21",
+    "delivery_date": "2022-10-02"
+  },
+  {
+    "purchase_id": 24,
+    "supplier_id": 32,
+    "product_id": 82,
+    "purchase_quantity": 49,
+    "unit_price": 100,
+    "order_date": "2022-05-05",
+    "delivery_date": "2022-10-28"
+  },
+  {
+    "purchase_id": 25,
+    "supplier_id": 45,
+    "product_id": 52,
+    "purchase_quantity": 34,
+    "unit_price": 63,
+    "order_date": "2022-05-07",
+    "delivery_date": "2022-11-04"
+  },
+  {
+    "purchase_id": 26,
+    "supplier_id": 24,
+    "product_id": 16,
+    "purchase_quantity": 14,
+    "unit_price": 80,
+    "order_date": "2022-05-14",
+    "delivery_date": "2022-05-20"
+  },
+  {
+    "purchase_id": 27,
+    "supplier_id": 6,
+    "product_id": 16,
+    "purchase_quantity": 16,
+    "unit_price": 47,
+    "order_date": "2022-04-23",
+    "delivery_date": "2022-07-26"
+  },
+  {
+    "purchase_id": 28,
+    "supplier_id": 15,
+    "product_id": 1,
+    "purchase_quantity": 3,
+    "unit_price": 36,
+    "order_date": "2022-04-27",
+    "delivery_date": "2022-09-01"
+  },
+  {
+    "purchase_id": 29,
+    "supplier_id": 32,
+    "product_id": 28,
+    "purchase_quantity": 39,
+    "unit_price": 54,
+    "order_date": "2022-04-23",
+    "delivery_date": "2022-08-09"
+  },
+  {
+    "purchase_id": 30,
+    "supplier_id": 2,
+    "product_id": 43,
+    "purchase_quantity": 10,
+    "unit_price": 72,
+    "order_date": "2022-05-14",
+    "delivery_date": "2022-05-27"
+  },
+  {
+    "purchase_id": 31,
+    "supplier_id": 10,
+    "product_id": 85,
+    "purchase_quantity": 39,
+    "unit_price": 31,
+    "order_date": "2022-04-25",
+    "delivery_date": "2022-06-01"
+  },
+  {
+    "purchase_id": 32,
+    "supplier_id": 46,
+    "product_id": 27,
+    "purchase_quantity": 9,
+    "unit_price": 97,
+    "order_date": "2022-05-04",
+    "delivery_date": "2022-10-11"
+  },
+  {
+    "purchase_id": 33,
+    "supplier_id": 50,
+    "product_id": 84,
+    "purchase_quantity": 25,
+    "unit_price": 63,
+    "order_date": "2022-05-06",
+    "delivery_date": "2022-06-01"
+  },
+  {
+    "purchase_id": 34,
+    "supplier_id": 17,
+    "product_id": 74,
+    "purchase_quantity": 43,
+    "unit_price": 98,
+    "order_date": "2022-04-21",
+    "delivery_date": "2022-06-27"
+  },
+  {
+    "purchase_id": 35,
+    "supplier_id": 15,
+    "product_id": 88,
+    "purchase_quantity": 19,
+    "unit_price": 81,
+    "order_date": "2022-04-15",
+    "delivery_date": "2022-09-19"
+  },
+  {
+    "purchase_id": 36,
+    "supplier_id": 18,
+    "product_id": 69,
+    "purchase_quantity": 22,
+    "unit_price": 4,
+    "order_date": "2022-05-02",
+    "delivery_date": "2022-08-05"
+  },
+  {
+    "purchase_id": 37,
+    "supplier_id": 14,
+    "product_id": 47,
+    "purchase_quantity": 47,
+    "unit_price": 84,
+    "order_date": "2022-05-08",
+    "delivery_date": "2022-06-14"
+  },
+  {
+    "purchase_id": 38,
+    "supplier_id": 3,
+    "product_id": 63,
+    "purchase_quantity": 41,
+    "unit_price": 88,
+    "order_date": "2022-04-17",
+    "delivery_date": "2022-07-26"
+  },
+  {
+    "purchase_id": 39,
+    "supplier_id": 39,
+    "product_id": 20,
+    "purchase_quantity": 1,
+    "unit_price": 22,
+    "order_date": "2022-04-17",
+    "delivery_date": "2022-09-27"
+  },
+  {
+    "purchase_id": 40,
+    "supplier_id": 2,
+    "product_id": 22,
+    "purchase_quantity": 29,
+    "unit_price": 13,
+    "order_date": "2022-05-06",
+    "delivery_date": "2022-10-24"
+  },
+  {
+    "purchase_id": 41,
+    "supplier_id": 31,
+    "product_id": 38,
+    "purchase_quantity": 30,
+    "unit_price": 42,
+    "order_date": "2022-04-29",
+    "delivery_date": "2022-05-25"
+  },
+  {
+    "purchase_id": 42,
+    "supplier_id": 40,
+    "product_id": 74,
+    "purchase_quantity": 8,
+    "unit_price": 4,
+    "order_date": "2022-05-02",
+    "delivery_date": "2022-07-12"
+  },
+  {
+    "purchase_id": 43,
+    "supplier_id": 12,
+    "product_id": 30,
+    "purchase_quantity": 19,
+    "unit_price": 37,
+    "order_date": "2022-05-08",
+    "delivery_date": "2022-07-18"
+  },
+  {
+    "purchase_id": 44,
+    "supplier_id": 33,
+    "product_id": 86,
+    "purchase_quantity": 45,
+    "unit_price": 16,
+    "order_date": "2022-04-19",
+    "delivery_date": "2022-11-07"
+  },
+  {
+    "purchase_id": 45,
+    "supplier_id": 32,
+    "product_id": 8,
+    "purchase_quantity": 2,
+    "unit_price": 73,
+    "order_date": "2022-05-04",
+    "delivery_date": "2022-09-10"
+  },
+  {
+    "purchase_id": 46,
+    "supplier_id": 2,
+    "product_id": 69,
+    "purchase_quantity": 13,
+    "unit_price": 86,
+    "order_date": "2022-04-25",
+    "delivery_date": "2022-05-23"
+  },
+  {
+    "purchase_id": 47,
+    "supplier_id": 11,
+    "product_id": 12,
+    "purchase_quantity": 44,
+    "unit_price": 74,
+    "order_date": "2022-04-21",
+    "delivery_date": "2022-11-20"
+  },
+  {
+    "purchase_id": 48,
+    "supplier_id": 48,
+    "product_id": 60,
+    "purchase_quantity": 28,
+    "unit_price": 85,
+    "order_date": "2022-04-23",
+    "delivery_date": "2022-10-08"
+  },
+  {
+    "purchase_id": 49,
+    "supplier_id": 9,
+    "product_id": 42,
+    "purchase_quantity": 18,
+    "unit_price": 59,
+    "order_date": "2022-04-17",
+    "delivery_date": "2022-11-17"
+  },
+  {
+    "purchase_id": 50,
+    "supplier_id": 44,
+    "product_id": 71,
+    "purchase_quantity": 45,
+    "unit_price": 23,
+    "order_date": "2022-05-06",
+    "delivery_date": "2022-07-09"
+  },
+  {
+    "purchase_id": 51,
+    "supplier_id": 30,
+    "product_id": 93,
+    "purchase_quantity": 20,
+    "unit_price": 38,
+    "order_date": "2022-04-26",
+    "delivery_date": "2022-07-23"
+  },
+  {
+    "purchase_id": 52,
+    "supplier_id": 48,
+    "product_id": 31,
+    "purchase_quantity": 10,
+    "unit_price": 16,
+    "order_date": "2022-04-25",
+    "delivery_date": "2022-11-03"
+  },
+  {
+    "purchase_id": 53,
+    "supplier_id": 31,
+    "product_id": 71,
+    "purchase_quantity": 26,
+    "unit_price": 79,
+    "order_date": "2022-04-16",
+    "delivery_date": "2022-06-14"
+  },
+  {
+    "purchase_id": 54,
+    "supplier_id": 2,
+    "product_id": 34,
+    "purchase_quantity": 49,
+    "unit_price": 10,
+    "order_date": "2022-04-29",
+    "delivery_date": "2022-09-09"
+  },
+  {
+    "purchase_id": 55,
+    "supplier_id": 48,
+    "product_id": 18,
+    "purchase_quantity": 14,
+    "unit_price": 92,
+    "order_date": "2022-04-30",
+    "delivery_date": "2022-11-29"
+  },
+  {
+    "purchase_id": 56,
+    "supplier_id": 50,
+    "product_id": 45,
+    "purchase_quantity": 2,
+    "unit_price": 26,
+    "order_date": "2022-04-17",
+    "delivery_date": "2022-09-20"
+  },
+  {
+    "purchase_id": 57,
+    "supplier_id": 44,
+    "product_id": 82,
+    "purchase_quantity": 45,
+    "unit_price": 96,
+    "order_date": "2022-05-04",
+    "delivery_date": "2022-06-21"
+  },
+  {
+    "purchase_id": 58,
+    "supplier_id": 14,
+    "product_id": 78,
+    "purchase_quantity": 20,
+    "unit_price": 22,
+    "order_date": "2022-05-11",
+    "delivery_date": "2022-06-28"
+  },
+  {
+    "purchase_id": 59,
+    "supplier_id": 9,
+    "product_id": 96,
+    "purchase_quantity": 32,
+    "unit_price": 79,
+    "order_date": "2022-04-21",
+    "delivery_date": "2022-08-04"
+  },
+  {
+    "purchase_id": 60,
+    "supplier_id": 14,
+    "product_id": 86,
+    "purchase_quantity": 15,
+    "unit_price": 65,
+    "order_date": "2022-05-09",
+    "delivery_date": "2022-07-24"
+  },
+  {
+    "purchase_id": 61,
+    "supplier_id": 18,
+    "product_id": 72,
+    "purchase_quantity": 7,
+    "unit_price": 74,
+    "order_date": "2022-05-11",
+    "delivery_date": "2022-05-31"
+  },
+  {
+    "purchase_id": 62,
+    "supplier_id": 14,
+    "product_id": 100,
+    "purchase_quantity": 11,
+    "unit_price": 28,
+    "order_date": "2022-04-24",
+    "delivery_date": "2022-07-23"
+  },
+  {
+    "purchase_id": 63,
+    "supplier_id": 39,
+    "product_id": 67,
+    "purchase_quantity": 45,
+    "unit_price": 33,
+    "order_date": "2022-05-01",
+    "delivery_date": "2022-10-26"
+  },
+  {
+    "purchase_id": 64,
+    "supplier_id": 44,
+    "product_id": 75,
+    "purchase_quantity": 1,
+    "unit_price": 77,
+    "order_date": "2022-05-02",
+    "delivery_date": "2022-09-01"
+  },
+  {
+    "purchase_id": 65,
+    "supplier_id": 20,
+    "product_id": 24,
+    "purchase_quantity": 42,
+    "unit_price": 43,
+    "order_date": "2022-04-19",
+    "delivery_date": "2022-07-25"
+  },
+  {
+    "purchase_id": 66,
+    "supplier_id": 48,
+    "product_id": 53,
+    "purchase_quantity": 14,
+    "unit_price": 97,
+    "order_date": "2022-04-16",
+    "delivery_date": "2022-11-24"
+  },
+  {
+    "purchase_id": 67,
+    "supplier_id": 7,
+    "product_id": 97,
+    "purchase_quantity": 7,
+    "unit_price": 4,
+    "order_date": "2022-04-23",
+    "delivery_date": "2022-08-28"
+  },
+  {
+    "purchase_id": 68,
+    "supplier_id": 15,
+    "product_id": 88,
+    "purchase_quantity": 19,
+    "unit_price": 69,
+    "order_date": "2022-04-28",
+    "delivery_date": "2022-10-03"
+  },
+  {
+    "purchase_id": 69,
+    "supplier_id": 33,
+    "product_id": 23,
+    "purchase_quantity": 6,
+    "unit_price": 67,
+    "order_date": "2022-05-13",
+    "delivery_date": "2022-06-11"
+  },
+  {
+    "purchase_id": 70,
+    "supplier_id": 11,
+    "product_id": 85,
+    "purchase_quantity": 50,
+    "unit_price": 49,
+    "order_date": "2022-05-13",
+    "delivery_date": "2022-07-17"
+  },
+  {
+    "purchase_id": 71,
+    "supplier_id": 47,
+    "product_id": 90,
+    "purchase_quantity": 28,
+    "unit_price": 21,
+    "order_date": "2022-04-18",
+    "delivery_date": "2022-06-29"
+  },
+  {
+    "purchase_id": 72,
+    "supplier_id": 23,
+    "product_id": 89,
+    "purchase_quantity": 27,
+    "unit_price": 95,
+    "order_date": "2022-04-20",
+    "delivery_date": "2022-10-15"
+  },
+  {
+    "purchase_id": 73,
+    "supplier_id": 47,
+    "product_id": 13,
+    "purchase_quantity": 16,
+    "unit_price": 20,
+    "order_date": "2022-04-22",
+    "delivery_date": "2022-09-18"
+  },
+  {
+    "purchase_id": 74,
+    "supplier_id": 20,
+    "product_id": 84,
+    "purchase_quantity": 38,
+    "unit_price": 96,
+    "order_date": "2022-05-14",
+    "delivery_date": "2022-06-30"
+  },
+  {
+    "purchase_id": 75,
+    "supplier_id": 21,
+    "product_id": 43,
+    "purchase_quantity": 44,
+    "unit_price": 15,
+    "order_date": "2022-05-04",
+    "delivery_date": "2022-05-22"
+  },
+  {
+    "purchase_id": 76,
+    "supplier_id": 1,
+    "product_id": 37,
+    "purchase_quantity": 30,
+    "unit_price": 60,
+    "order_date": "2022-05-07",
+    "delivery_date": "2022-07-08"
+  },
+  {
+    "purchase_id": 77,
+    "supplier_id": 48,
+    "product_id": 58,
+    "purchase_quantity": 3,
+    "unit_price": 41,
+    "order_date": "2022-05-04",
+    "delivery_date": "2022-08-29"
+  },
+  {
+    "purchase_id": 78,
+    "supplier_id": 15,
+    "product_id": 29,
+    "purchase_quantity": 37,
+    "unit_price": 64,
+    "order_date": "2022-04-22",
+    "delivery_date": "2022-05-21"
+  },
+  {
+    "purchase_id": 79,
+    "supplier_id": 47,
+    "product_id": 91,
+    "purchase_quantity": 48,
+    "unit_price": 49,
+    "order_date": "2022-04-30",
+    "delivery_date": "2022-09-12"
+  },
+  {
+    "purchase_id": 80,
+    "supplier_id": 21,
+    "product_id": 47,
+    "purchase_quantity": 4,
+    "unit_price": 9,
+    "order_date": "2022-04-16",
+    "delivery_date": "2022-11-05"
+  },
+  {
+    "purchase_id": 81,
+    "supplier_id": 47,
+    "product_id": 43,
+    "purchase_quantity": 48,
+    "unit_price": 33,
+    "order_date": "2022-04-27",
+    "delivery_date": "2022-06-08"
+  },
+  {
+    "purchase_id": 82,
+    "supplier_id": 24,
+    "product_id": 69,
+    "purchase_quantity": 30,
+    "unit_price": 74,
+    "order_date": "2022-04-21",
+    "delivery_date": "2022-07-24"
+  },
+  {
+    "purchase_id": 83,
+    "supplier_id": 14,
+    "product_id": 69,
+    "purchase_quantity": 21,
+    "unit_price": 3,
+    "order_date": "2022-05-11",
+    "delivery_date": "2022-09-29"
+  },
+  {
+    "purchase_id": 84,
+    "supplier_id": 36,
+    "product_id": 13,
+    "purchase_quantity": 12,
+    "unit_price": 95,
+    "order_date": "2022-05-14",
+    "delivery_date": "2022-05-17"
+  },
+  {
+    "purchase_id": 85,
+    "supplier_id": 13,
+    "product_id": 80,
+    "purchase_quantity": 22,
+    "unit_price": 71,
+    "order_date": "2022-04-29",
+    "delivery_date": "2022-06-15"
+  },
+  {
+    "purchase_id": 86,
+    "supplier_id": 14,
+    "product_id": 70,
+    "purchase_quantity": 5,
+    "unit_price": 63,
+    "order_date": "2022-04-25",
+    "delivery_date": "2022-10-14"
+  },
+  {
+    "purchase_id": 87,
+    "supplier_id": 26,
+    "product_id": 96,
+    "purchase_quantity": 36,
+    "unit_price": 97,
+    "order_date": "2022-04-25",
+    "delivery_date": "2022-08-11"
+  },
+  {
+    "purchase_id": 88,
+    "supplier_id": 16,
+    "product_id": 20,
+    "purchase_quantity": 39,
+    "unit_price": 31,
+    "order_date": "2022-04-26",
+    "delivery_date": "2022-11-29"
+  },
+  {
+    "purchase_id": 89,
+    "supplier_id": 47,
+    "product_id": 96,
+    "purchase_quantity": 32,
+    "unit_price": 3,
+    "order_date": "2022-04-22",
+    "delivery_date": "2022-11-22"
+  },
+  {
+    "purchase_id": 90,
+    "supplier_id": 13,
+    "product_id": 95,
+    "purchase_quantity": 31,
+    "unit_price": 80,
+    "order_date": "2022-04-25",
+    "delivery_date": "2022-11-21"
+  },
+  {
+    "purchase_id": 91,
+    "supplier_id": 26,
+    "product_id": 100,
+    "purchase_quantity": 39,
+    "unit_price": 58,
+    "order_date": "2022-05-09",
+    "delivery_date": "2022-08-12"
+  },
+  {
+    "purchase_id": 92,
+    "supplier_id": 26,
+    "product_id": 3,
+    "purchase_quantity": 7,
+    "unit_price": 85,
+    "order_date": "2022-05-01",
+    "delivery_date": "2022-11-04"
+  },
+  {
+    "purchase_id": 93,
+    "supplier_id": 8,
+    "product_id": 82,
+    "purchase_quantity": 13,
+    "unit_price": 92,
+    "order_date": "2022-05-01",
+    "delivery_date": "2022-09-15"
+  },
+  {
+    "purchase_id": 94,
+    "supplier_id": 10,
+    "product_id": 26,
+    "purchase_quantity": 25,
+    "unit_price": 92,
+    "order_date": "2022-05-07",
+    "delivery_date": "2022-06-04"
+  },
+  {
+    "purchase_id": 95,
+    "supplier_id": 31,
+    "product_id": 21,
+    "purchase_quantity": 32,
+    "unit_price": 11,
+    "order_date": "2022-05-06",
+    "delivery_date": "2022-10-03"
+  },
+  {
+    "purchase_id": 96,
+    "supplier_id": 12,
+    "product_id": 85,
+    "purchase_quantity": 18,
+    "unit_price": 46,
+    "order_date": "2022-05-03",
+    "delivery_date": "2022-11-18"
+  },
+  {
+    "purchase_id": 97,
+    "supplier_id": 23,
+    "product_id": 20,
+    "purchase_quantity": 38,
+    "unit_price": 98,
+    "order_date": "2022-05-08",
+    "delivery_date": "2022-07-22"
+  },
+  {
+    "purchase_id": 98,
+    "supplier_id": 50,
+    "product_id": 63,
+    "purchase_quantity": 33,
+    "unit_price": 38,
+    "order_date": "2022-04-28",
+    "delivery_date": "2022-07-13"
+  },
+  {
+    "purchase_id": 99,
+    "supplier_id": 39,
+    "product_id": 74,
+    "purchase_quantity": 16,
+    "unit_price": 92,
+    "order_date": "2022-05-12",
+    "delivery_date": "2022-09-27"
+  },
+  {
+    "purchase_id": 100,
+    "supplier_id": 27,
+    "product_id": 47,
+    "purchase_quantity": 40,
+    "unit_price": 30,
+    "order_date": "2022-04-19",
+    "delivery_date": "2022-06-30"
+  }
+]

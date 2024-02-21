@@ -1,0 +1,8002 @@
+[
+  {
+    "order_id": 1,
+    "inventory_id": 2,
+    "order_date": "2022-07-02 13:34:56",
+    "product_id": 89,
+    "selling_price": 20.74,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 2,
+    "inventory_id": 25,
+    "order_date": "2023-02-25 01:24:32",
+    "product_id": 12,
+    "selling_price": 1.54,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 3,
+    "inventory_id": 16,
+    "order_date": "2022-06-15 16:03:08",
+    "product_id": 54,
+    "selling_price": 33.45,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 4,
+    "inventory_id": 19,
+    "order_date": "2022-04-19 13:39:25",
+    "product_id": 51,
+    "selling_price": 93.05,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 5,
+    "inventory_id": 37,
+    "order_date": "2022-12-26 05:58:54",
+    "product_id": 16,
+    "selling_price": 92.72,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 6,
+    "inventory_id": 2,
+    "order_date": "2022-09-12 03:30:52",
+    "product_id": 93,
+    "selling_price": 41.61,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 7,
+    "inventory_id": 15,
+    "order_date": "2022-10-30 05:50:46",
+    "product_id": 30,
+    "selling_price": 55.23,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 8,
+    "inventory_id": 38,
+    "order_date": "2022-05-20 15:42:57",
+    "product_id": 26,
+    "selling_price": 59.37,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 9,
+    "inventory_id": 34,
+    "order_date": "2022-05-17 14:43:40",
+    "product_id": 53,
+    "selling_price": 42.17,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 10,
+    "inventory_id": 33,
+    "order_date": "2023-01-06 21:08:52",
+    "product_id": 59,
+    "selling_price": 36.92,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 11,
+    "inventory_id": 14,
+    "order_date": "2022-05-20 19:59:56",
+    "product_id": 52,
+    "selling_price": 82.68,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 12,
+    "inventory_id": 6,
+    "order_date": "2022-12-23 07:22:49",
+    "product_id": 18,
+    "selling_price": 3.84,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 13,
+    "inventory_id": 16,
+    "order_date": "2022-10-09 00:16:18",
+    "product_id": 64,
+    "selling_price": 71.2,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 14,
+    "inventory_id": 16,
+    "order_date": "2022-06-22 00:25:39",
+    "product_id": 56,
+    "selling_price": 72.52,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 15,
+    "inventory_id": 34,
+    "order_date": "2022-11-15 21:07:39",
+    "product_id": 16,
+    "selling_price": 14.04,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 16,
+    "inventory_id": 7,
+    "order_date": "2022-08-28 03:22:32",
+    "product_id": 89,
+    "selling_price": 81.57,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 17,
+    "inventory_id": 40,
+    "order_date": "2023-03-04 13:22:39",
+    "product_id": 16,
+    "selling_price": 43.3,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 18,
+    "inventory_id": 30,
+    "order_date": "2022-09-18 05:54:10",
+    "product_id": 56,
+    "selling_price": 59.77,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 19,
+    "inventory_id": 29,
+    "order_date": "2022-06-02 13:18:28",
+    "product_id": 63,
+    "selling_price": 44.37,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 20,
+    "inventory_id": 29,
+    "order_date": "2023-03-01 02:36:35",
+    "product_id": 12,
+    "selling_price": 62.8,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 21,
+    "inventory_id": 7,
+    "order_date": "2022-11-16 14:14:12",
+    "product_id": 8,
+    "selling_price": 48.69,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 22,
+    "inventory_id": 4,
+    "order_date": "2022-05-14 03:42:12",
+    "product_id": 3,
+    "selling_price": 1.81,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 23,
+    "inventory_id": 25,
+    "order_date": "2023-03-20 18:22:20",
+    "product_id": 77,
+    "selling_price": 71.35,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 24,
+    "inventory_id": 32,
+    "order_date": "2023-04-04 05:39:50",
+    "product_id": 74,
+    "selling_price": 3.74,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 25,
+    "inventory_id": 31,
+    "order_date": "2022-10-22 03:53:11",
+    "product_id": 85,
+    "selling_price": 44.76,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 26,
+    "inventory_id": 10,
+    "order_date": "2022-04-24 17:29:08",
+    "product_id": 47,
+    "selling_price": 92.31,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 27,
+    "inventory_id": 30,
+    "order_date": "2022-12-02 10:09:44",
+    "product_id": 47,
+    "selling_price": 49.13,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 28,
+    "inventory_id": 32,
+    "order_date": "2022-09-11 03:04:33",
+    "product_id": 26,
+    "selling_price": 13.37,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 29,
+    "inventory_id": 38,
+    "order_date": "2022-12-26 04:33:57",
+    "product_id": 36,
+    "selling_price": 50.04,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 30,
+    "inventory_id": 3,
+    "order_date": "2023-04-04 09:36:02",
+    "product_id": 78,
+    "selling_price": 57.22,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 31,
+    "inventory_id": 24,
+    "order_date": "2022-05-27 06:09:06",
+    "product_id": 32,
+    "selling_price": 65.62,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 32,
+    "inventory_id": 19,
+    "order_date": "2022-06-15 13:58:17",
+    "product_id": 44,
+    "selling_price": 40.63,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 33,
+    "inventory_id": 11,
+    "order_date": "2022-08-15 09:23:10",
+    "product_id": 50,
+    "selling_price": 75.82,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 34,
+    "inventory_id": 9,
+    "order_date": "2022-10-09 17:40:22",
+    "product_id": 87,
+    "selling_price": 90.97,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 35,
+    "inventory_id": 39,
+    "order_date": "2022-12-15 04:28:40",
+    "product_id": 15,
+    "selling_price": 48.97,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 36,
+    "inventory_id": 24,
+    "order_date": "2022-06-28 18:20:06",
+    "product_id": 93,
+    "selling_price": 31.86,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 37,
+    "inventory_id": 39,
+    "order_date": "2022-12-30 14:07:32",
+    "product_id": 90,
+    "selling_price": 58.41,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 38,
+    "inventory_id": 14,
+    "order_date": "2022-12-09 16:58:23",
+    "product_id": 37,
+    "selling_price": 14.88,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 39,
+    "inventory_id": 14,
+    "order_date": "2022-10-06 09:52:46",
+    "product_id": 98,
+    "selling_price": 17.83,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 40,
+    "inventory_id": 16,
+    "order_date": "2023-01-25 21:07:56",
+    "product_id": 72,
+    "selling_price": 99.2,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 41,
+    "inventory_id": 17,
+    "order_date": "2023-01-28 08:59:04",
+    "product_id": 16,
+    "selling_price": 28.83,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 42,
+    "inventory_id": 29,
+    "order_date": "2023-03-22 05:44:01",
+    "product_id": 33,
+    "selling_price": 77,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 43,
+    "inventory_id": 36,
+    "order_date": "2023-03-05 03:44:44",
+    "product_id": 47,
+    "selling_price": 57.34,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 44,
+    "inventory_id": 28,
+    "order_date": "2022-06-17 13:43:06",
+    "product_id": 10,
+    "selling_price": 50.02,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 45,
+    "inventory_id": 16,
+    "order_date": "2023-01-17 18:23:45",
+    "product_id": 29,
+    "selling_price": 4.94,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 46,
+    "inventory_id": 18,
+    "order_date": "2022-09-01 13:32:33",
+    "product_id": 85,
+    "selling_price": 63.64,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 47,
+    "inventory_id": 8,
+    "order_date": "2023-04-01 20:39:00",
+    "product_id": 50,
+    "selling_price": 39.69,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 48,
+    "inventory_id": 23,
+    "order_date": "2022-12-18 09:05:36",
+    "product_id": 51,
+    "selling_price": 2.92,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 49,
+    "inventory_id": 37,
+    "order_date": "2022-07-10 05:34:43",
+    "product_id": 76,
+    "selling_price": 95.92,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 50,
+    "inventory_id": 19,
+    "order_date": "2022-08-28 02:35:26",
+    "product_id": 15,
+    "selling_price": 13.88,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 51,
+    "inventory_id": 12,
+    "order_date": "2022-07-24 12:11:42",
+    "product_id": 33,
+    "selling_price": 78.54,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 52,
+    "inventory_id": 2,
+    "order_date": "2022-12-28 06:49:54",
+    "product_id": 74,
+    "selling_price": 49.22,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 53,
+    "inventory_id": 30,
+    "order_date": "2022-12-08 18:10:17",
+    "product_id": 24,
+    "selling_price": 66.79,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 54,
+    "inventory_id": 9,
+    "order_date": "2022-10-07 16:29:32",
+    "product_id": 51,
+    "selling_price": 87.65,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 55,
+    "inventory_id": 7,
+    "order_date": "2022-12-08 14:08:09",
+    "product_id": 79,
+    "selling_price": 78.27,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 56,
+    "inventory_id": 35,
+    "order_date": "2023-03-11 16:59:18",
+    "product_id": 99,
+    "selling_price": 55.24,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 57,
+    "inventory_id": 39,
+    "order_date": "2022-10-08 09:22:29",
+    "product_id": 44,
+    "selling_price": 28.02,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 58,
+    "inventory_id": 11,
+    "order_date": "2023-03-15 06:42:00",
+    "product_id": 21,
+    "selling_price": 91.15,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 59,
+    "inventory_id": 33,
+    "order_date": "2023-03-17 22:20:18",
+    "product_id": 9,
+    "selling_price": 12.36,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 60,
+    "inventory_id": 36,
+    "order_date": "2023-04-11 21:26:28",
+    "product_id": 98,
+    "selling_price": 95.32,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 61,
+    "inventory_id": 34,
+    "order_date": "2022-05-28 17:11:56",
+    "product_id": 11,
+    "selling_price": 38.88,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 62,
+    "inventory_id": 14,
+    "order_date": "2023-02-06 19:41:26",
+    "product_id": 73,
+    "selling_price": 34.85,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 63,
+    "inventory_id": 2,
+    "order_date": "2022-10-15 21:21:07",
+    "product_id": 97,
+    "selling_price": 42.13,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 64,
+    "inventory_id": 21,
+    "order_date": "2023-02-20 15:38:25",
+    "product_id": 26,
+    "selling_price": 54.7,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 65,
+    "inventory_id": 30,
+    "order_date": "2023-04-06 12:54:53",
+    "product_id": 41,
+    "selling_price": 55.23,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 66,
+    "inventory_id": 10,
+    "order_date": "2022-10-05 13:19:25",
+    "product_id": 9,
+    "selling_price": 52.82,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 67,
+    "inventory_id": 28,
+    "order_date": "2023-04-08 00:58:10",
+    "product_id": 10,
+    "selling_price": 20.98,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 68,
+    "inventory_id": 23,
+    "order_date": "2022-08-07 04:27:36",
+    "product_id": 44,
+    "selling_price": 88.35,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 69,
+    "inventory_id": 32,
+    "order_date": "2022-08-18 23:48:16",
+    "product_id": 83,
+    "selling_price": 52.59,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 70,
+    "inventory_id": 32,
+    "order_date": "2022-08-01 03:13:38",
+    "product_id": 21,
+    "selling_price": 76.88,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 71,
+    "inventory_id": 25,
+    "order_date": "2022-10-08 01:37:14",
+    "product_id": 7,
+    "selling_price": 73.45,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 72,
+    "inventory_id": 17,
+    "order_date": "2022-09-18 05:23:46",
+    "product_id": 2,
+    "selling_price": 11.11,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 73,
+    "inventory_id": 8,
+    "order_date": "2022-08-08 23:40:58",
+    "product_id": 50,
+    "selling_price": 65.65,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 74,
+    "inventory_id": 5,
+    "order_date": "2022-12-17 15:40:20",
+    "product_id": 85,
+    "selling_price": 19.41,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 75,
+    "inventory_id": 28,
+    "order_date": "2022-09-25 23:41:48",
+    "product_id": 14,
+    "selling_price": 86.26,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 76,
+    "inventory_id": 37,
+    "order_date": "2022-05-12 01:41:00",
+    "product_id": 28,
+    "selling_price": 9.14,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 77,
+    "inventory_id": 30,
+    "order_date": "2023-01-02 19:39:09",
+    "product_id": 33,
+    "selling_price": 45,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 78,
+    "inventory_id": 25,
+    "order_date": "2022-05-26 17:59:32",
+    "product_id": 13,
+    "selling_price": 55.33,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 79,
+    "inventory_id": 15,
+    "order_date": "2022-10-01 17:31:27",
+    "product_id": 73,
+    "selling_price": 56.08,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 80,
+    "inventory_id": 20,
+    "order_date": "2022-05-03 17:48:35",
+    "product_id": 96,
+    "selling_price": 89.92,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 81,
+    "inventory_id": 5,
+    "order_date": "2022-10-25 09:06:39",
+    "product_id": 57,
+    "selling_price": 41.16,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 82,
+    "inventory_id": 12,
+    "order_date": "2022-08-07 07:34:54",
+    "product_id": 22,
+    "selling_price": 44.37,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 83,
+    "inventory_id": 19,
+    "order_date": "2022-04-28 08:13:04",
+    "product_id": 96,
+    "selling_price": 65.18,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 84,
+    "inventory_id": 25,
+    "order_date": "2022-05-23 16:59:15",
+    "product_id": 69,
+    "selling_price": 70.81,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 85,
+    "inventory_id": 10,
+    "order_date": "2022-09-15 17:45:59",
+    "product_id": 7,
+    "selling_price": 75.49,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 86,
+    "inventory_id": 27,
+    "order_date": "2022-11-01 09:20:47",
+    "product_id": 12,
+    "selling_price": 66.42,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 87,
+    "inventory_id": 12,
+    "order_date": "2022-08-09 05:02:26",
+    "product_id": 64,
+    "selling_price": 73.69,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 88,
+    "inventory_id": 8,
+    "order_date": "2022-08-04 09:44:47",
+    "product_id": 55,
+    "selling_price": 99.81,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 89,
+    "inventory_id": 11,
+    "order_date": "2022-04-23 10:46:58",
+    "product_id": 96,
+    "selling_price": 35.32,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 90,
+    "inventory_id": 34,
+    "order_date": "2023-04-01 08:00:00",
+    "product_id": 63,
+    "selling_price": 62.07,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 91,
+    "inventory_id": 14,
+    "order_date": "2022-10-15 15:32:30",
+    "product_id": 63,
+    "selling_price": 31.13,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 92,
+    "inventory_id": 6,
+    "order_date": "2022-05-28 06:24:41",
+    "product_id": 29,
+    "selling_price": 80.76,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 93,
+    "inventory_id": 26,
+    "order_date": "2022-08-03 12:03:46",
+    "product_id": 26,
+    "selling_price": 15.65,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 94,
+    "inventory_id": 26,
+    "order_date": "2022-09-20 06:59:10",
+    "product_id": 36,
+    "selling_price": 45.55,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 95,
+    "inventory_id": 16,
+    "order_date": "2022-09-11 21:48:15",
+    "product_id": 64,
+    "selling_price": 48.86,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 96,
+    "inventory_id": 12,
+    "order_date": "2023-04-03 02:05:30",
+    "product_id": 58,
+    "selling_price": 22.34,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 97,
+    "inventory_id": 21,
+    "order_date": "2022-08-10 03:03:00",
+    "product_id": 59,
+    "selling_price": 98.22,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 98,
+    "inventory_id": 16,
+    "order_date": "2022-09-01 01:50:46",
+    "product_id": 12,
+    "selling_price": 61.53,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 99,
+    "inventory_id": 37,
+    "order_date": "2023-01-21 21:11:05",
+    "product_id": 23,
+    "selling_price": 70.73,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 100,
+    "inventory_id": 11,
+    "order_date": "2023-03-27 07:21:34",
+    "product_id": 86,
+    "selling_price": 14.17,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 101,
+    "inventory_id": 13,
+    "order_date": "2023-02-02 02:32:32",
+    "product_id": 39,
+    "selling_price": 25.79,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 102,
+    "inventory_id": 10,
+    "order_date": "2023-04-11 11:54:06",
+    "product_id": 52,
+    "selling_price": 99.36,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 103,
+    "inventory_id": 36,
+    "order_date": "2022-06-20 19:27:59",
+    "product_id": 14,
+    "selling_price": 50.65,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 104,
+    "inventory_id": 11,
+    "order_date": "2022-11-25 17:17:12",
+    "product_id": 26,
+    "selling_price": 58.33,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 105,
+    "inventory_id": 13,
+    "order_date": "2023-02-19 01:20:08",
+    "product_id": 40,
+    "selling_price": 49.5,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 106,
+    "inventory_id": 2,
+    "order_date": "2022-07-23 02:52:41",
+    "product_id": 89,
+    "selling_price": 56.54,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 107,
+    "inventory_id": 38,
+    "order_date": "2022-07-23 21:58:51",
+    "product_id": 62,
+    "selling_price": 15.35,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 108,
+    "inventory_id": 39,
+    "order_date": "2023-02-18 04:42:56",
+    "product_id": 4,
+    "selling_price": 32.81,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 109,
+    "inventory_id": 16,
+    "order_date": "2022-11-25 03:35:42",
+    "product_id": 2,
+    "selling_price": 91.83,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 110,
+    "inventory_id": 3,
+    "order_date": "2022-12-15 15:47:11",
+    "product_id": 71,
+    "selling_price": 58.83,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 111,
+    "inventory_id": 40,
+    "order_date": "2022-05-26 11:12:05",
+    "product_id": 88,
+    "selling_price": 28.99,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 112,
+    "inventory_id": 34,
+    "order_date": "2023-01-31 04:48:38",
+    "product_id": 92,
+    "selling_price": 26.98,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 113,
+    "inventory_id": 19,
+    "order_date": "2023-02-12 07:47:39",
+    "product_id": 16,
+    "selling_price": 93.95,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 114,
+    "inventory_id": 10,
+    "order_date": "2022-08-14 00:20:50",
+    "product_id": 87,
+    "selling_price": 66.94,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 115,
+    "inventory_id": 17,
+    "order_date": "2023-04-01 13:51:58",
+    "product_id": 12,
+    "selling_price": 95.67,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 116,
+    "inventory_id": 11,
+    "order_date": "2022-12-30 08:15:33",
+    "product_id": 39,
+    "selling_price": 94.09,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 117,
+    "inventory_id": 16,
+    "order_date": "2022-06-18 13:28:35",
+    "product_id": 8,
+    "selling_price": 75.7,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 118,
+    "inventory_id": 29,
+    "order_date": "2022-08-14 03:27:15",
+    "product_id": 37,
+    "selling_price": 27.15,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 119,
+    "inventory_id": 30,
+    "order_date": "2022-04-29 17:43:02",
+    "product_id": 9,
+    "selling_price": 9.02,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 120,
+    "inventory_id": 4,
+    "order_date": "2022-11-07 17:36:54",
+    "product_id": 64,
+    "selling_price": 66.76,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 121,
+    "inventory_id": 33,
+    "order_date": "2023-03-28 03:14:47",
+    "product_id": 31,
+    "selling_price": 57.62,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 122,
+    "inventory_id": 2,
+    "order_date": "2022-09-20 06:49:29",
+    "product_id": 12,
+    "selling_price": 65.9,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 123,
+    "inventory_id": 19,
+    "order_date": "2022-05-19 22:07:49",
+    "product_id": 6,
+    "selling_price": 73.48,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 124,
+    "inventory_id": 10,
+    "order_date": "2022-09-21 16:40:51",
+    "product_id": 3,
+    "selling_price": 94.77,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 125,
+    "inventory_id": 29,
+    "order_date": "2022-05-11 12:51:01",
+    "product_id": 73,
+    "selling_price": 26.55,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 126,
+    "inventory_id": 4,
+    "order_date": "2022-05-15 23:45:57",
+    "product_id": 8,
+    "selling_price": 92.25,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 127,
+    "inventory_id": 17,
+    "order_date": "2022-10-17 03:06:32",
+    "product_id": 83,
+    "selling_price": 79.94,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 128,
+    "inventory_id": 7,
+    "order_date": "2023-04-05 11:40:49",
+    "product_id": 80,
+    "selling_price": 25.44,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 129,
+    "inventory_id": 3,
+    "order_date": "2023-01-06 01:56:47",
+    "product_id": 27,
+    "selling_price": 45.42,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 130,
+    "inventory_id": 26,
+    "order_date": "2022-05-11 20:16:57",
+    "product_id": 70,
+    "selling_price": 94.24,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 131,
+    "inventory_id": 11,
+    "order_date": "2022-09-02 22:07:32",
+    "product_id": 5,
+    "selling_price": 56.26,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 132,
+    "inventory_id": 33,
+    "order_date": "2022-12-21 15:31:26",
+    "product_id": 30,
+    "selling_price": 59.06,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 133,
+    "inventory_id": 3,
+    "order_date": "2022-10-29 19:59:56",
+    "product_id": 18,
+    "selling_price": 12.13,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 134,
+    "inventory_id": 32,
+    "order_date": "2022-09-23 04:57:22",
+    "product_id": 86,
+    "selling_price": 61.34,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 135,
+    "inventory_id": 14,
+    "order_date": "2022-04-28 16:21:00",
+    "product_id": 86,
+    "selling_price": 69.62,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 136,
+    "inventory_id": 20,
+    "order_date": "2022-05-14 03:54:09",
+    "product_id": 70,
+    "selling_price": 25.27,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 137,
+    "inventory_id": 20,
+    "order_date": "2022-05-31 08:21:26",
+    "product_id": 90,
+    "selling_price": 37.65,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 138,
+    "inventory_id": 13,
+    "order_date": "2022-09-11 20:42:50",
+    "product_id": 41,
+    "selling_price": 3.18,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 139,
+    "inventory_id": 4,
+    "order_date": "2022-08-25 11:17:08",
+    "product_id": 32,
+    "selling_price": 79.11,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 140,
+    "inventory_id": 6,
+    "order_date": "2022-07-13 08:40:09",
+    "product_id": 39,
+    "selling_price": 4.15,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 141,
+    "inventory_id": 19,
+    "order_date": "2022-09-17 19:45:31",
+    "product_id": 100,
+    "selling_price": 31.82,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 142,
+    "inventory_id": 21,
+    "order_date": "2022-04-15 07:28:06",
+    "product_id": 21,
+    "selling_price": 48.92,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 143,
+    "inventory_id": 9,
+    "order_date": "2022-09-10 08:59:25",
+    "product_id": 73,
+    "selling_price": 89.7,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 144,
+    "inventory_id": 18,
+    "order_date": "2022-08-02 12:56:38",
+    "product_id": 66,
+    "selling_price": 61.72,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 145,
+    "inventory_id": 17,
+    "order_date": "2022-07-21 07:30:46",
+    "product_id": 74,
+    "selling_price": 5.54,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 146,
+    "inventory_id": 5,
+    "order_date": "2022-09-05 01:37:06",
+    "product_id": 56,
+    "selling_price": 90.06,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 147,
+    "inventory_id": 20,
+    "order_date": "2022-11-25 10:16:39",
+    "product_id": 44,
+    "selling_price": 17.32,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 148,
+    "inventory_id": 27,
+    "order_date": "2022-09-28 23:16:05",
+    "product_id": 95,
+    "selling_price": 99.13,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 149,
+    "inventory_id": 15,
+    "order_date": "2023-01-18 07:34:02",
+    "product_id": 63,
+    "selling_price": 81.88,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 150,
+    "inventory_id": 23,
+    "order_date": "2022-09-02 20:24:50",
+    "product_id": 22,
+    "selling_price": 87.06,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 151,
+    "inventory_id": 25,
+    "order_date": "2022-05-22 08:12:00",
+    "product_id": 60,
+    "selling_price": 79.17,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 152,
+    "inventory_id": 16,
+    "order_date": "2022-11-09 20:00:14",
+    "product_id": 30,
+    "selling_price": 56.94,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 153,
+    "inventory_id": 6,
+    "order_date": "2023-04-10 16:03:44",
+    "product_id": 67,
+    "selling_price": 3.49,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 154,
+    "inventory_id": 35,
+    "order_date": "2023-01-06 05:02:05",
+    "product_id": 94,
+    "selling_price": 92.91,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 155,
+    "inventory_id": 1,
+    "order_date": "2022-12-13 22:00:42",
+    "product_id": 24,
+    "selling_price": 64.65,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 156,
+    "inventory_id": 27,
+    "order_date": "2022-06-25 22:59:28",
+    "product_id": 97,
+    "selling_price": 45.41,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 157,
+    "inventory_id": 18,
+    "order_date": "2023-01-08 04:08:48",
+    "product_id": 54,
+    "selling_price": 19.11,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 158,
+    "inventory_id": 29,
+    "order_date": "2022-11-09 05:10:36",
+    "product_id": 79,
+    "selling_price": 76.73,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 159,
+    "inventory_id": 33,
+    "order_date": "2022-07-28 23:12:13",
+    "product_id": 87,
+    "selling_price": 85.19,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 160,
+    "inventory_id": 19,
+    "order_date": "2022-04-26 16:01:55",
+    "product_id": 60,
+    "selling_price": 80.93,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 161,
+    "inventory_id": 1,
+    "order_date": "2022-11-15 14:40:24",
+    "product_id": 32,
+    "selling_price": 8.68,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 162,
+    "inventory_id": 14,
+    "order_date": "2022-06-25 22:12:21",
+    "product_id": 45,
+    "selling_price": 81.59,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 163,
+    "inventory_id": 5,
+    "order_date": "2023-02-12 00:07:49",
+    "product_id": 63,
+    "selling_price": 95.97,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 164,
+    "inventory_id": 27,
+    "order_date": "2022-09-01 13:48:00",
+    "product_id": 54,
+    "selling_price": 64.83,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 165,
+    "inventory_id": 3,
+    "order_date": "2023-01-22 00:21:38",
+    "product_id": 51,
+    "selling_price": 58.18,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 166,
+    "inventory_id": 23,
+    "order_date": "2022-12-05 19:19:07",
+    "product_id": 48,
+    "selling_price": 12.41,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 167,
+    "inventory_id": 27,
+    "order_date": "2022-04-29 11:58:48",
+    "product_id": 22,
+    "selling_price": 8.58,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 168,
+    "inventory_id": 31,
+    "order_date": "2023-02-22 18:28:29",
+    "product_id": 15,
+    "selling_price": 69.27,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 169,
+    "inventory_id": 10,
+    "order_date": "2022-07-17 19:24:27",
+    "product_id": 60,
+    "selling_price": 6.57,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 170,
+    "inventory_id": 20,
+    "order_date": "2022-10-29 09:01:48",
+    "product_id": 9,
+    "selling_price": 23.18,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 171,
+    "inventory_id": 39,
+    "order_date": "2022-05-31 15:31:25",
+    "product_id": 4,
+    "selling_price": 99.41,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 172,
+    "inventory_id": 9,
+    "order_date": "2022-12-29 14:28:12",
+    "product_id": 93,
+    "selling_price": 21.03,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 173,
+    "inventory_id": 11,
+    "order_date": "2022-08-06 22:08:14",
+    "product_id": 77,
+    "selling_price": 77.05,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 174,
+    "inventory_id": 37,
+    "order_date": "2022-07-06 00:32:45",
+    "product_id": 98,
+    "selling_price": 21.49,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 175,
+    "inventory_id": 22,
+    "order_date": "2022-06-07 05:39:36",
+    "product_id": 41,
+    "selling_price": 64.97,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 176,
+    "inventory_id": 22,
+    "order_date": "2022-12-24 05:37:23",
+    "product_id": 92,
+    "selling_price": 80.62,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 177,
+    "inventory_id": 40,
+    "order_date": "2022-05-22 19:35:54",
+    "product_id": 26,
+    "selling_price": 37.89,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 178,
+    "inventory_id": 22,
+    "order_date": "2022-06-24 08:01:17",
+    "product_id": 11,
+    "selling_price": 14.6,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 179,
+    "inventory_id": 18,
+    "order_date": "2022-08-02 06:46:03",
+    "product_id": 1,
+    "selling_price": 74.68,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 180,
+    "inventory_id": 25,
+    "order_date": "2022-10-09 08:40:49",
+    "product_id": 49,
+    "selling_price": 99.36,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 181,
+    "inventory_id": 34,
+    "order_date": "2023-04-07 03:32:10",
+    "product_id": 23,
+    "selling_price": 61.47,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 182,
+    "inventory_id": 30,
+    "order_date": "2023-01-26 19:19:55",
+    "product_id": 30,
+    "selling_price": 47.53,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 183,
+    "inventory_id": 21,
+    "order_date": "2022-05-16 14:16:40",
+    "product_id": 66,
+    "selling_price": 68.72,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 184,
+    "inventory_id": 36,
+    "order_date": "2023-01-02 14:17:53",
+    "product_id": 4,
+    "selling_price": 66.62,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 185,
+    "inventory_id": 12,
+    "order_date": "2022-09-16 17:49:10",
+    "product_id": 95,
+    "selling_price": 93.8,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 186,
+    "inventory_id": 16,
+    "order_date": "2022-06-26 14:24:33",
+    "product_id": 65,
+    "selling_price": 29.41,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 187,
+    "inventory_id": 14,
+    "order_date": "2023-03-31 15:32:18",
+    "product_id": 99,
+    "selling_price": 70.34,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 188,
+    "inventory_id": 10,
+    "order_date": "2022-06-26 15:26:04",
+    "product_id": 40,
+    "selling_price": 40.04,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 189,
+    "inventory_id": 14,
+    "order_date": "2022-12-09 13:02:28",
+    "product_id": 32,
+    "selling_price": 11.03,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 190,
+    "inventory_id": 35,
+    "order_date": "2022-08-22 08:48:53",
+    "product_id": 66,
+    "selling_price": 31.11,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 191,
+    "inventory_id": 10,
+    "order_date": "2022-08-05 15:16:54",
+    "product_id": 4,
+    "selling_price": 95.16,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 192,
+    "inventory_id": 35,
+    "order_date": "2023-04-14 09:39:21",
+    "product_id": 36,
+    "selling_price": 29.61,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 193,
+    "inventory_id": 32,
+    "order_date": "2022-07-11 11:06:30",
+    "product_id": 16,
+    "selling_price": 93.45,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 194,
+    "inventory_id": 5,
+    "order_date": "2023-04-05 03:58:50",
+    "product_id": 89,
+    "selling_price": 45.62,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 195,
+    "inventory_id": 25,
+    "order_date": "2022-05-31 03:03:59",
+    "product_id": 48,
+    "selling_price": 13.43,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 196,
+    "inventory_id": 34,
+    "order_date": "2022-10-30 10:52:30",
+    "product_id": 50,
+    "selling_price": 89.89,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 197,
+    "inventory_id": 20,
+    "order_date": "2022-04-21 07:01:56",
+    "product_id": 67,
+    "selling_price": 81.97,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 198,
+    "inventory_id": 38,
+    "order_date": "2023-01-17 20:18:02",
+    "product_id": 8,
+    "selling_price": 67.4,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 199,
+    "inventory_id": 6,
+    "order_date": "2022-09-24 07:06:31",
+    "product_id": 72,
+    "selling_price": 34.75,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 200,
+    "inventory_id": 30,
+    "order_date": "2022-08-23 06:05:28",
+    "product_id": 15,
+    "selling_price": 31.01,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 201,
+    "inventory_id": 34,
+    "order_date": "2022-06-14 01:18:41",
+    "product_id": 7,
+    "selling_price": 13.79,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 202,
+    "inventory_id": 10,
+    "order_date": "2023-02-06 17:33:13",
+    "product_id": 36,
+    "selling_price": 68.92,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 203,
+    "inventory_id": 28,
+    "order_date": "2022-05-14 19:04:49",
+    "product_id": 58,
+    "selling_price": 53.95,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 204,
+    "inventory_id": 16,
+    "order_date": "2022-12-21 22:23:54",
+    "product_id": 83,
+    "selling_price": 67.8,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 205,
+    "inventory_id": 1,
+    "order_date": "2022-10-22 11:00:50",
+    "product_id": 34,
+    "selling_price": 41.28,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 206,
+    "inventory_id": 10,
+    "order_date": "2022-08-18 20:34:32",
+    "product_id": 78,
+    "selling_price": 41.74,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 207,
+    "inventory_id": 38,
+    "order_date": "2023-02-20 22:11:03",
+    "product_id": 64,
+    "selling_price": 99.5,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 208,
+    "inventory_id": 18,
+    "order_date": "2022-06-13 10:27:52",
+    "product_id": 96,
+    "selling_price": 16.69,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 209,
+    "inventory_id": 38,
+    "order_date": "2023-03-02 22:21:48",
+    "product_id": 87,
+    "selling_price": 53.03,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 210,
+    "inventory_id": 24,
+    "order_date": "2023-01-18 08:56:41",
+    "product_id": 48,
+    "selling_price": 36.5,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 211,
+    "inventory_id": 6,
+    "order_date": "2022-08-10 03:04:31",
+    "product_id": 21,
+    "selling_price": 68.98,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 212,
+    "inventory_id": 37,
+    "order_date": "2022-10-28 02:10:39",
+    "product_id": 83,
+    "selling_price": 68.07,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 213,
+    "inventory_id": 40,
+    "order_date": "2022-06-11 01:43:53",
+    "product_id": 79,
+    "selling_price": 46.2,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 214,
+    "inventory_id": 28,
+    "order_date": "2022-09-04 15:51:32",
+    "product_id": 85,
+    "selling_price": 90.4,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 215,
+    "inventory_id": 1,
+    "order_date": "2022-11-27 23:03:24",
+    "product_id": 2,
+    "selling_price": 67.51,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 216,
+    "inventory_id": 8,
+    "order_date": "2022-10-04 20:12:24",
+    "product_id": 76,
+    "selling_price": 9.33,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 217,
+    "inventory_id": 9,
+    "order_date": "2022-08-21 11:21:19",
+    "product_id": 78,
+    "selling_price": 36.47,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 218,
+    "inventory_id": 30,
+    "order_date": "2022-08-30 18:25:03",
+    "product_id": 33,
+    "selling_price": 38.26,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 219,
+    "inventory_id": 3,
+    "order_date": "2022-10-01 13:21:43",
+    "product_id": 97,
+    "selling_price": 93.61,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 220,
+    "inventory_id": 3,
+    "order_date": "2022-11-15 23:46:51",
+    "product_id": 7,
+    "selling_price": 78.02,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 221,
+    "inventory_id": 21,
+    "order_date": "2022-12-01 10:58:37",
+    "product_id": 65,
+    "selling_price": 74.6,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 222,
+    "inventory_id": 17,
+    "order_date": "2022-12-31 08:38:50",
+    "product_id": 94,
+    "selling_price": 93.89,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 223,
+    "inventory_id": 13,
+    "order_date": "2022-08-07 15:33:32",
+    "product_id": 12,
+    "selling_price": 62.38,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 224,
+    "inventory_id": 23,
+    "order_date": "2023-03-08 23:19:11",
+    "product_id": 16,
+    "selling_price": 19.21,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 225,
+    "inventory_id": 4,
+    "order_date": "2023-01-05 20:38:31",
+    "product_id": 21,
+    "selling_price": 36.86,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 226,
+    "inventory_id": 31,
+    "order_date": "2022-09-27 03:13:52",
+    "product_id": 23,
+    "selling_price": 51.94,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 227,
+    "inventory_id": 8,
+    "order_date": "2022-11-11 01:14:09",
+    "product_id": 46,
+    "selling_price": 12.07,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 228,
+    "inventory_id": 5,
+    "order_date": "2022-07-12 01:48:44",
+    "product_id": 38,
+    "selling_price": 67.35,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 229,
+    "inventory_id": 1,
+    "order_date": "2023-03-05 07:40:41",
+    "product_id": 94,
+    "selling_price": 93.84,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 230,
+    "inventory_id": 18,
+    "order_date": "2023-04-10 03:17:56",
+    "product_id": 91,
+    "selling_price": 83.79,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 231,
+    "inventory_id": 13,
+    "order_date": "2023-02-02 11:03:08",
+    "product_id": 10,
+    "selling_price": 80.26,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 232,
+    "inventory_id": 15,
+    "order_date": "2022-05-10 11:46:52",
+    "product_id": 22,
+    "selling_price": 3.05,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 233,
+    "inventory_id": 36,
+    "order_date": "2022-12-04 23:53:39",
+    "product_id": 82,
+    "selling_price": 49.46,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 234,
+    "inventory_id": 15,
+    "order_date": "2022-10-09 17:46:04",
+    "product_id": 20,
+    "selling_price": 81.65,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 235,
+    "inventory_id": 35,
+    "order_date": "2023-03-07 23:44:32",
+    "product_id": 54,
+    "selling_price": 43.61,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 236,
+    "inventory_id": 36,
+    "order_date": "2022-07-24 01:30:59",
+    "product_id": 76,
+    "selling_price": 58.29,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 237,
+    "inventory_id": 4,
+    "order_date": "2022-08-09 21:07:43",
+    "product_id": 16,
+    "selling_price": 7.23,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 238,
+    "inventory_id": 10,
+    "order_date": "2023-03-18 09:07:03",
+    "product_id": 75,
+    "selling_price": 74.4,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 239,
+    "inventory_id": 2,
+    "order_date": "2023-02-19 23:07:27",
+    "product_id": 58,
+    "selling_price": 82.48,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 240,
+    "inventory_id": 1,
+    "order_date": "2022-04-30 02:12:42",
+    "product_id": 97,
+    "selling_price": 68.96,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 241,
+    "inventory_id": 19,
+    "order_date": "2022-05-27 15:02:33",
+    "product_id": 68,
+    "selling_price": 10.36,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 242,
+    "inventory_id": 5,
+    "order_date": "2023-02-25 09:22:40",
+    "product_id": 37,
+    "selling_price": 43.52,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 243,
+    "inventory_id": 27,
+    "order_date": "2023-02-17 18:59:00",
+    "product_id": 100,
+    "selling_price": 21.48,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 244,
+    "inventory_id": 28,
+    "order_date": "2022-06-27 15:13:33",
+    "product_id": 20,
+    "selling_price": 50.79,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 245,
+    "inventory_id": 16,
+    "order_date": "2022-04-23 10:22:34",
+    "product_id": 15,
+    "selling_price": 24.22,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 246,
+    "inventory_id": 3,
+    "order_date": "2022-12-13 21:24:03",
+    "product_id": 99,
+    "selling_price": 71.73,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 247,
+    "inventory_id": 24,
+    "order_date": "2022-12-15 16:27:23",
+    "product_id": 28,
+    "selling_price": 74.09,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 248,
+    "inventory_id": 28,
+    "order_date": "2022-08-25 11:38:00",
+    "product_id": 61,
+    "selling_price": 32.13,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 249,
+    "inventory_id": 30,
+    "order_date": "2022-10-26 19:26:54",
+    "product_id": 45,
+    "selling_price": 18.49,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 250,
+    "inventory_id": 13,
+    "order_date": "2022-06-26 03:15:49",
+    "product_id": 74,
+    "selling_price": 96.8,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 251,
+    "inventory_id": 20,
+    "order_date": "2023-01-08 12:47:37",
+    "product_id": 86,
+    "selling_price": 29.16,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 252,
+    "inventory_id": 35,
+    "order_date": "2022-09-14 08:37:12",
+    "product_id": 5,
+    "selling_price": 12.01,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 253,
+    "inventory_id": 15,
+    "order_date": "2023-04-02 21:09:07",
+    "product_id": 91,
+    "selling_price": 67.37,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 254,
+    "inventory_id": 3,
+    "order_date": "2022-09-16 21:50:54",
+    "product_id": 69,
+    "selling_price": 70.59,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 255,
+    "inventory_id": 34,
+    "order_date": "2022-08-11 03:22:16",
+    "product_id": 80,
+    "selling_price": 8.8,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 256,
+    "inventory_id": 28,
+    "order_date": "2022-05-27 07:42:34",
+    "product_id": 54,
+    "selling_price": 51.68,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 257,
+    "inventory_id": 28,
+    "order_date": "2022-12-19 10:58:46",
+    "product_id": 41,
+    "selling_price": 35.2,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 258,
+    "inventory_id": 4,
+    "order_date": "2022-05-02 12:33:34",
+    "product_id": 58,
+    "selling_price": 67.34,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 259,
+    "inventory_id": 34,
+    "order_date": "2022-10-25 13:50:54",
+    "product_id": 28,
+    "selling_price": 73.88,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 260,
+    "inventory_id": 24,
+    "order_date": "2023-01-19 11:31:59",
+    "product_id": 69,
+    "selling_price": 65.84,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 261,
+    "inventory_id": 24,
+    "order_date": "2022-11-28 10:14:33",
+    "product_id": 64,
+    "selling_price": 39.37,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 262,
+    "inventory_id": 36,
+    "order_date": "2022-12-11 16:22:59",
+    "product_id": 8,
+    "selling_price": 60.64,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 263,
+    "inventory_id": 4,
+    "order_date": "2022-06-07 15:23:48",
+    "product_id": 62,
+    "selling_price": 45.95,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 264,
+    "inventory_id": 6,
+    "order_date": "2022-04-22 13:47:20",
+    "product_id": 7,
+    "selling_price": 92.67,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 265,
+    "inventory_id": 19,
+    "order_date": "2023-03-31 07:24:34",
+    "product_id": 35,
+    "selling_price": 64.17,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 266,
+    "inventory_id": 11,
+    "order_date": "2022-08-26 12:46:05",
+    "product_id": 18,
+    "selling_price": 77.99,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 267,
+    "inventory_id": 5,
+    "order_date": "2022-07-27 04:59:44",
+    "product_id": 4,
+    "selling_price": 18.84,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 268,
+    "inventory_id": 11,
+    "order_date": "2023-03-31 03:34:12",
+    "product_id": 40,
+    "selling_price": 30.11,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 269,
+    "inventory_id": 19,
+    "order_date": "2022-05-23 09:18:07",
+    "product_id": 61,
+    "selling_price": 30.49,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 270,
+    "inventory_id": 32,
+    "order_date": "2022-08-22 13:41:57",
+    "product_id": 16,
+    "selling_price": 28.2,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 271,
+    "inventory_id": 10,
+    "order_date": "2022-09-13 11:31:56",
+    "product_id": 53,
+    "selling_price": 5.97,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 272,
+    "inventory_id": 31,
+    "order_date": "2022-12-02 03:06:07",
+    "product_id": 74,
+    "selling_price": 29.45,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 273,
+    "inventory_id": 19,
+    "order_date": "2022-09-04 14:48:22",
+    "product_id": 52,
+    "selling_price": 74.67,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 274,
+    "inventory_id": 4,
+    "order_date": "2022-06-14 20:47:30",
+    "product_id": 84,
+    "selling_price": 89.28,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 275,
+    "inventory_id": 11,
+    "order_date": "2022-12-01 08:34:50",
+    "product_id": 61,
+    "selling_price": 9.93,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 276,
+    "inventory_id": 17,
+    "order_date": "2023-03-04 23:58:50",
+    "product_id": 60,
+    "selling_price": 92.65,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 277,
+    "inventory_id": 16,
+    "order_date": "2022-06-28 23:09:13",
+    "product_id": 62,
+    "selling_price": 71.71,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 278,
+    "inventory_id": 13,
+    "order_date": "2023-03-16 18:16:09",
+    "product_id": 81,
+    "selling_price": 79.87,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 279,
+    "inventory_id": 7,
+    "order_date": "2022-08-09 19:47:25",
+    "product_id": 44,
+    "selling_price": 1.5,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 280,
+    "inventory_id": 7,
+    "order_date": "2023-01-31 11:23:17",
+    "product_id": 89,
+    "selling_price": 85.04,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 281,
+    "inventory_id": 32,
+    "order_date": "2022-12-07 09:23:07",
+    "product_id": 93,
+    "selling_price": 41.38,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 282,
+    "inventory_id": 24,
+    "order_date": "2023-02-17 23:33:31",
+    "product_id": 84,
+    "selling_price": 43.42,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 283,
+    "inventory_id": 32,
+    "order_date": "2022-06-05 04:27:45",
+    "product_id": 1,
+    "selling_price": 21.15,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 284,
+    "inventory_id": 22,
+    "order_date": "2022-10-12 13:35:35",
+    "product_id": 17,
+    "selling_price": 95.4,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 285,
+    "inventory_id": 18,
+    "order_date": "2022-06-14 13:53:21",
+    "product_id": 87,
+    "selling_price": 92.73,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 286,
+    "inventory_id": 3,
+    "order_date": "2022-06-10 06:38:54",
+    "product_id": 33,
+    "selling_price": 48.77,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 287,
+    "inventory_id": 1,
+    "order_date": "2022-11-23 22:20:46",
+    "product_id": 89,
+    "selling_price": 51.32,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 288,
+    "inventory_id": 13,
+    "order_date": "2023-01-24 19:36:56",
+    "product_id": 32,
+    "selling_price": 77.9,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 289,
+    "inventory_id": 24,
+    "order_date": "2023-04-09 02:40:38",
+    "product_id": 60,
+    "selling_price": 43.54,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 290,
+    "inventory_id": 22,
+    "order_date": "2022-06-16 10:32:40",
+    "product_id": 64,
+    "selling_price": 40.9,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 291,
+    "inventory_id": 10,
+    "order_date": "2023-01-09 03:04:52",
+    "product_id": 1,
+    "selling_price": 15.24,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 292,
+    "inventory_id": 22,
+    "order_date": "2022-05-13 05:42:02",
+    "product_id": 58,
+    "selling_price": 22.47,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 293,
+    "inventory_id": 13,
+    "order_date": "2022-12-11 12:18:19",
+    "product_id": 24,
+    "selling_price": 77.62,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 294,
+    "inventory_id": 33,
+    "order_date": "2022-06-22 22:27:10",
+    "product_id": 57,
+    "selling_price": 82.53,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 295,
+    "inventory_id": 26,
+    "order_date": "2022-12-18 18:49:27",
+    "product_id": 95,
+    "selling_price": 65.2,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 296,
+    "inventory_id": 32,
+    "order_date": "2022-09-22 02:08:11",
+    "product_id": 61,
+    "selling_price": 87.99,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 297,
+    "inventory_id": 20,
+    "order_date": "2023-01-30 02:39:38",
+    "product_id": 15,
+    "selling_price": 58.92,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 298,
+    "inventory_id": 35,
+    "order_date": "2022-06-17 20:43:02",
+    "product_id": 25,
+    "selling_price": 79.66,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 299,
+    "inventory_id": 28,
+    "order_date": "2022-07-18 22:47:24",
+    "product_id": 65,
+    "selling_price": 99.6,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 300,
+    "inventory_id": 20,
+    "order_date": "2022-10-26 10:36:49",
+    "product_id": 20,
+    "selling_price": 56.82,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 301,
+    "inventory_id": 1,
+    "order_date": "2022-11-13 04:19:46",
+    "product_id": 37,
+    "selling_price": 78.19,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 302,
+    "inventory_id": 4,
+    "order_date": "2022-10-20 18:24:50",
+    "product_id": 47,
+    "selling_price": 90.53,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 303,
+    "inventory_id": 12,
+    "order_date": "2023-03-14 05:55:55",
+    "product_id": 4,
+    "selling_price": 29.24,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 304,
+    "inventory_id": 10,
+    "order_date": "2022-10-01 08:18:15",
+    "product_id": 63,
+    "selling_price": 37.29,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 305,
+    "inventory_id": 5,
+    "order_date": "2023-01-03 09:09:43",
+    "product_id": 90,
+    "selling_price": 26.18,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 306,
+    "inventory_id": 35,
+    "order_date": "2023-02-21 01:06:40",
+    "product_id": 41,
+    "selling_price": 54.09,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 307,
+    "inventory_id": 18,
+    "order_date": "2023-04-03 18:15:10",
+    "product_id": 37,
+    "selling_price": 57.86,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 308,
+    "inventory_id": 15,
+    "order_date": "2022-09-13 02:15:28",
+    "product_id": 81,
+    "selling_price": 30.32,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 309,
+    "inventory_id": 37,
+    "order_date": "2023-03-19 11:47:56",
+    "product_id": 49,
+    "selling_price": 16.74,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 310,
+    "inventory_id": 13,
+    "order_date": "2022-06-04 13:13:43",
+    "product_id": 33,
+    "selling_price": 27.07,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 311,
+    "inventory_id": 31,
+    "order_date": "2022-10-24 04:53:08",
+    "product_id": 57,
+    "selling_price": 22,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 312,
+    "inventory_id": 15,
+    "order_date": "2022-11-10 06:20:19",
+    "product_id": 71,
+    "selling_price": 41.19,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 313,
+    "inventory_id": 37,
+    "order_date": "2022-10-02 01:38:11",
+    "product_id": 71,
+    "selling_price": 36.92,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 314,
+    "inventory_id": 33,
+    "order_date": "2023-02-01 04:45:09",
+    "product_id": 32,
+    "selling_price": 79.45,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 315,
+    "inventory_id": 24,
+    "order_date": "2022-06-06 13:02:51",
+    "product_id": 49,
+    "selling_price": 35.55,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 316,
+    "inventory_id": 23,
+    "order_date": "2023-01-16 00:17:11",
+    "product_id": 44,
+    "selling_price": 28.55,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 317,
+    "inventory_id": 37,
+    "order_date": "2022-10-03 05:11:32",
+    "product_id": 60,
+    "selling_price": 8.96,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 318,
+    "inventory_id": 38,
+    "order_date": "2022-05-30 22:01:29",
+    "product_id": 20,
+    "selling_price": 54.42,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 319,
+    "inventory_id": 1,
+    "order_date": "2023-01-18 10:43:47",
+    "product_id": 73,
+    "selling_price": 98.15,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 320,
+    "inventory_id": 30,
+    "order_date": "2022-05-25 05:05:29",
+    "product_id": 61,
+    "selling_price": 31.82,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 321,
+    "inventory_id": 27,
+    "order_date": "2023-01-08 16:02:32",
+    "product_id": 24,
+    "selling_price": 77.38,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 322,
+    "inventory_id": 31,
+    "order_date": "2022-05-11 15:57:01",
+    "product_id": 45,
+    "selling_price": 18.52,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 323,
+    "inventory_id": 29,
+    "order_date": "2022-07-19 00:33:30",
+    "product_id": 53,
+    "selling_price": 12.15,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 324,
+    "inventory_id": 12,
+    "order_date": "2023-01-11 09:14:14",
+    "product_id": 60,
+    "selling_price": 51,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 325,
+    "inventory_id": 21,
+    "order_date": "2023-02-10 14:09:13",
+    "product_id": 52,
+    "selling_price": 27.11,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 326,
+    "inventory_id": 33,
+    "order_date": "2023-03-19 23:48:25",
+    "product_id": 91,
+    "selling_price": 28.19,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 327,
+    "inventory_id": 36,
+    "order_date": "2022-07-27 12:39:39",
+    "product_id": 72,
+    "selling_price": 55.1,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 328,
+    "inventory_id": 2,
+    "order_date": "2022-08-14 06:15:38",
+    "product_id": 55,
+    "selling_price": 88.65,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 329,
+    "inventory_id": 11,
+    "order_date": "2023-01-29 07:06:34",
+    "product_id": 52,
+    "selling_price": 17.81,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 330,
+    "inventory_id": 19,
+    "order_date": "2022-10-19 09:45:55",
+    "product_id": 20,
+    "selling_price": 89.98,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 331,
+    "inventory_id": 35,
+    "order_date": "2022-06-15 21:50:28",
+    "product_id": 51,
+    "selling_price": 54.02,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 332,
+    "inventory_id": 13,
+    "order_date": "2022-10-08 22:09:33",
+    "product_id": 18,
+    "selling_price": 61.98,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 333,
+    "inventory_id": 30,
+    "order_date": "2023-03-05 03:00:36",
+    "product_id": 20,
+    "selling_price": 17.04,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 334,
+    "inventory_id": 33,
+    "order_date": "2022-10-29 13:43:04",
+    "product_id": 25,
+    "selling_price": 93.61,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 335,
+    "inventory_id": 6,
+    "order_date": "2022-07-06 22:21:44",
+    "product_id": 58,
+    "selling_price": 46.25,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 336,
+    "inventory_id": 10,
+    "order_date": "2022-09-29 19:38:54",
+    "product_id": 75,
+    "selling_price": 93.54,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 337,
+    "inventory_id": 13,
+    "order_date": "2023-01-02 10:58:34",
+    "product_id": 67,
+    "selling_price": 63.22,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 338,
+    "inventory_id": 36,
+    "order_date": "2022-12-04 19:28:56",
+    "product_id": 50,
+    "selling_price": 88.72,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 339,
+    "inventory_id": 14,
+    "order_date": "2023-03-06 01:11:17",
+    "product_id": 89,
+    "selling_price": 81.77,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 340,
+    "inventory_id": 23,
+    "order_date": "2022-12-01 16:34:18",
+    "product_id": 37,
+    "selling_price": 61.15,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 341,
+    "inventory_id": 35,
+    "order_date": "2022-12-28 18:49:22",
+    "product_id": 15,
+    "selling_price": 73.31,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 342,
+    "inventory_id": 25,
+    "order_date": "2022-04-24 18:14:09",
+    "product_id": 71,
+    "selling_price": 89.09,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 343,
+    "inventory_id": 19,
+    "order_date": "2022-08-02 12:41:51",
+    "product_id": 44,
+    "selling_price": 67.34,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 344,
+    "inventory_id": 9,
+    "order_date": "2022-09-23 12:51:30",
+    "product_id": 48,
+    "selling_price": 49.31,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 345,
+    "inventory_id": 2,
+    "order_date": "2022-11-09 14:45:12",
+    "product_id": 59,
+    "selling_price": 2.71,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 346,
+    "inventory_id": 24,
+    "order_date": "2022-12-20 20:01:47",
+    "product_id": 63,
+    "selling_price": 48.65,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 347,
+    "inventory_id": 37,
+    "order_date": "2023-02-22 05:07:29",
+    "product_id": 60,
+    "selling_price": 58.11,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 348,
+    "inventory_id": 28,
+    "order_date": "2022-04-29 08:47:18",
+    "product_id": 47,
+    "selling_price": 21.14,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 349,
+    "inventory_id": 2,
+    "order_date": "2022-10-24 14:16:37",
+    "product_id": 35,
+    "selling_price": 1.71,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 350,
+    "inventory_id": 39,
+    "order_date": "2022-09-14 16:08:47",
+    "product_id": 87,
+    "selling_price": 50.99,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 351,
+    "inventory_id": 20,
+    "order_date": "2022-04-16 00:39:01",
+    "product_id": 26,
+    "selling_price": 43.3,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 352,
+    "inventory_id": 4,
+    "order_date": "2022-08-31 03:05:17",
+    "product_id": 75,
+    "selling_price": 54.35,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 353,
+    "inventory_id": 14,
+    "order_date": "2023-01-05 17:26:40",
+    "product_id": 72,
+    "selling_price": 31.95,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 354,
+    "inventory_id": 15,
+    "order_date": "2022-04-17 06:07:28",
+    "product_id": 17,
+    "selling_price": 66.72,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 355,
+    "inventory_id": 7,
+    "order_date": "2023-04-02 20:50:45",
+    "product_id": 21,
+    "selling_price": 35.02,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 356,
+    "inventory_id": 34,
+    "order_date": "2023-01-22 23:36:22",
+    "product_id": 52,
+    "selling_price": 27.2,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 357,
+    "inventory_id": 3,
+    "order_date": "2023-01-19 02:59:56",
+    "product_id": 26,
+    "selling_price": 24.87,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 358,
+    "inventory_id": 3,
+    "order_date": "2023-04-07 02:18:42",
+    "product_id": 29,
+    "selling_price": 43.47,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 359,
+    "inventory_id": 36,
+    "order_date": "2022-08-20 21:22:54",
+    "product_id": 40,
+    "selling_price": 24.93,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 360,
+    "inventory_id": 3,
+    "order_date": "2022-06-02 22:39:58",
+    "product_id": 14,
+    "selling_price": 94.76,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 361,
+    "inventory_id": 12,
+    "order_date": "2022-09-03 12:09:52",
+    "product_id": 84,
+    "selling_price": 62.72,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 362,
+    "inventory_id": 15,
+    "order_date": "2023-02-08 10:34:50",
+    "product_id": 49,
+    "selling_price": 73.08,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 363,
+    "inventory_id": 22,
+    "order_date": "2022-12-23 11:22:56",
+    "product_id": 44,
+    "selling_price": 6.07,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 364,
+    "inventory_id": 12,
+    "order_date": "2022-04-17 01:29:54",
+    "product_id": 79,
+    "selling_price": 56.36,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 365,
+    "inventory_id": 30,
+    "order_date": "2023-01-12 01:18:00",
+    "product_id": 11,
+    "selling_price": 9.43,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 366,
+    "inventory_id": 27,
+    "order_date": "2022-08-26 14:21:12",
+    "product_id": 51,
+    "selling_price": 80.7,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 367,
+    "inventory_id": 31,
+    "order_date": "2022-09-28 05:16:40",
+    "product_id": 98,
+    "selling_price": 79.02,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 368,
+    "inventory_id": 33,
+    "order_date": "2022-10-14 19:50:00",
+    "product_id": 80,
+    "selling_price": 46.27,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 369,
+    "inventory_id": 35,
+    "order_date": "2023-01-12 02:44:34",
+    "product_id": 53,
+    "selling_price": 1.19,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 370,
+    "inventory_id": 15,
+    "order_date": "2022-08-22 17:37:04",
+    "product_id": 98,
+    "selling_price": 79.27,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 371,
+    "inventory_id": 5,
+    "order_date": "2022-12-29 01:10:33",
+    "product_id": 27,
+    "selling_price": 63.8,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 372,
+    "inventory_id": 20,
+    "order_date": "2022-10-24 03:33:05",
+    "product_id": 47,
+    "selling_price": 94.36,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 373,
+    "inventory_id": 25,
+    "order_date": "2022-12-18 09:49:07",
+    "product_id": 97,
+    "selling_price": 31.29,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 374,
+    "inventory_id": 20,
+    "order_date": "2022-09-12 20:51:14",
+    "product_id": 82,
+    "selling_price": 31.26,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 375,
+    "inventory_id": 19,
+    "order_date": "2023-02-02 13:19:03",
+    "product_id": 29,
+    "selling_price": 2.6,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 376,
+    "inventory_id": 23,
+    "order_date": "2022-08-05 19:22:03",
+    "product_id": 96,
+    "selling_price": 61.92,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 377,
+    "inventory_id": 16,
+    "order_date": "2022-06-07 14:08:46",
+    "product_id": 43,
+    "selling_price": 41.6,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 378,
+    "inventory_id": 21,
+    "order_date": "2023-04-02 21:05:38",
+    "product_id": 54,
+    "selling_price": 83.74,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 379,
+    "inventory_id": 37,
+    "order_date": "2023-02-10 09:40:44",
+    "product_id": 5,
+    "selling_price": 57.62,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 380,
+    "inventory_id": 30,
+    "order_date": "2022-10-31 15:26:18",
+    "product_id": 88,
+    "selling_price": 34.98,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 381,
+    "inventory_id": 6,
+    "order_date": "2023-01-01 15:04:52",
+    "product_id": 74,
+    "selling_price": 51.27,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 382,
+    "inventory_id": 40,
+    "order_date": "2022-07-07 15:33:13",
+    "product_id": 68,
+    "selling_price": 83.41,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 383,
+    "inventory_id": 39,
+    "order_date": "2022-12-04 01:02:43",
+    "product_id": 37,
+    "selling_price": 60.52,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 384,
+    "inventory_id": 18,
+    "order_date": "2022-06-20 12:59:45",
+    "product_id": 42,
+    "selling_price": 25.31,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 385,
+    "inventory_id": 25,
+    "order_date": "2022-12-12 19:44:52",
+    "product_id": 71,
+    "selling_price": 85.05,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 386,
+    "inventory_id": 22,
+    "order_date": "2022-08-10 12:21:06",
+    "product_id": 28,
+    "selling_price": 13.58,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 387,
+    "inventory_id": 38,
+    "order_date": "2022-11-01 20:14:29",
+    "product_id": 92,
+    "selling_price": 92.28,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 388,
+    "inventory_id": 15,
+    "order_date": "2022-10-01 15:29:25",
+    "product_id": 31,
+    "selling_price": 87.2,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 389,
+    "inventory_id": 33,
+    "order_date": "2023-01-22 16:17:19",
+    "product_id": 36,
+    "selling_price": 85.69,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 390,
+    "inventory_id": 13,
+    "order_date": "2023-01-20 05:16:26",
+    "product_id": 89,
+    "selling_price": 54.39,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 391,
+    "inventory_id": 14,
+    "order_date": "2022-07-27 21:49:18",
+    "product_id": 14,
+    "selling_price": 11.28,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 392,
+    "inventory_id": 1,
+    "order_date": "2023-03-27 16:01:31",
+    "product_id": 94,
+    "selling_price": 84.38,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 393,
+    "inventory_id": 36,
+    "order_date": "2022-04-17 22:19:57",
+    "product_id": 25,
+    "selling_price": 6.41,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 394,
+    "inventory_id": 11,
+    "order_date": "2022-12-28 16:42:22",
+    "product_id": 26,
+    "selling_price": 27.32,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 395,
+    "inventory_id": 15,
+    "order_date": "2022-07-15 14:27:32",
+    "product_id": 67,
+    "selling_price": 83.66,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 396,
+    "inventory_id": 11,
+    "order_date": "2023-02-11 17:06:37",
+    "product_id": 98,
+    "selling_price": 81.24,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 397,
+    "inventory_id": 15,
+    "order_date": "2023-03-07 20:40:46",
+    "product_id": 18,
+    "selling_price": 78.43,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 398,
+    "inventory_id": 2,
+    "order_date": "2022-09-26 13:06:32",
+    "product_id": 83,
+    "selling_price": 8.5,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 399,
+    "inventory_id": 12,
+    "order_date": "2022-11-13 06:45:07",
+    "product_id": 98,
+    "selling_price": 72.54,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 400,
+    "inventory_id": 24,
+    "order_date": "2023-03-21 14:16:21",
+    "product_id": 26,
+    "selling_price": 64.35,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 401,
+    "inventory_id": 1,
+    "order_date": "2022-10-23 02:12:42",
+    "product_id": 22,
+    "selling_price": 4.66,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 402,
+    "inventory_id": 1,
+    "order_date": "2022-10-25 02:21:20",
+    "product_id": 30,
+    "selling_price": 65.22,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 403,
+    "inventory_id": 10,
+    "order_date": "2022-08-24 10:59:46",
+    "product_id": 15,
+    "selling_price": 10.73,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 404,
+    "inventory_id": 5,
+    "order_date": "2022-10-19 03:13:10",
+    "product_id": 60,
+    "selling_price": 26,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 405,
+    "inventory_id": 6,
+    "order_date": "2022-08-15 13:30:16",
+    "product_id": 16,
+    "selling_price": 43.4,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 406,
+    "inventory_id": 22,
+    "order_date": "2022-07-08 23:51:18",
+    "product_id": 73,
+    "selling_price": 15.46,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 407,
+    "inventory_id": 16,
+    "order_date": "2022-10-19 18:20:55",
+    "product_id": 39,
+    "selling_price": 45.26,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 408,
+    "inventory_id": 16,
+    "order_date": "2023-03-06 02:23:33",
+    "product_id": 68,
+    "selling_price": 65.99,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 409,
+    "inventory_id": 40,
+    "order_date": "2022-10-07 11:14:16",
+    "product_id": 2,
+    "selling_price": 57.53,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 410,
+    "inventory_id": 30,
+    "order_date": "2022-09-24 09:56:49",
+    "product_id": 89,
+    "selling_price": 26.18,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 411,
+    "inventory_id": 5,
+    "order_date": "2022-05-20 12:37:39",
+    "product_id": 99,
+    "selling_price": 86.51,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 412,
+    "inventory_id": 8,
+    "order_date": "2022-09-07 10:45:40",
+    "product_id": 70,
+    "selling_price": 78.95,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 413,
+    "inventory_id": 3,
+    "order_date": "2023-02-26 01:57:38",
+    "product_id": 23,
+    "selling_price": 42.33,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 414,
+    "inventory_id": 38,
+    "order_date": "2023-01-02 21:50:31",
+    "product_id": 39,
+    "selling_price": 29.62,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 415,
+    "inventory_id": 24,
+    "order_date": "2022-07-26 20:38:47",
+    "product_id": 100,
+    "selling_price": 10.22,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 416,
+    "inventory_id": 24,
+    "order_date": "2022-05-16 18:03:29",
+    "product_id": 36,
+    "selling_price": 91.32,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 417,
+    "inventory_id": 24,
+    "order_date": "2023-04-13 12:01:23",
+    "product_id": 56,
+    "selling_price": 51.05,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 418,
+    "inventory_id": 40,
+    "order_date": "2023-02-13 06:10:55",
+    "product_id": 96,
+    "selling_price": 42.01,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 419,
+    "inventory_id": 38,
+    "order_date": "2023-01-12 05:01:59",
+    "product_id": 57,
+    "selling_price": 98.52,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 420,
+    "inventory_id": 5,
+    "order_date": "2022-05-13 17:13:45",
+    "product_id": 45,
+    "selling_price": 72.18,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 421,
+    "inventory_id": 1,
+    "order_date": "2023-02-21 00:19:15",
+    "product_id": 2,
+    "selling_price": 42.58,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 422,
+    "inventory_id": 7,
+    "order_date": "2023-01-21 06:28:03",
+    "product_id": 61,
+    "selling_price": 52.8,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 423,
+    "inventory_id": 31,
+    "order_date": "2022-12-28 04:21:49",
+    "product_id": 14,
+    "selling_price": 22.85,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 424,
+    "inventory_id": 3,
+    "order_date": "2022-12-10 08:24:32",
+    "product_id": 27,
+    "selling_price": 11.23,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 425,
+    "inventory_id": 36,
+    "order_date": "2023-04-13 07:20:12",
+    "product_id": 39,
+    "selling_price": 82.59,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 426,
+    "inventory_id": 6,
+    "order_date": "2022-07-23 23:57:04",
+    "product_id": 18,
+    "selling_price": 78.36,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 427,
+    "inventory_id": 13,
+    "order_date": "2022-08-18 11:09:18",
+    "product_id": 55,
+    "selling_price": 49.18,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 428,
+    "inventory_id": 20,
+    "order_date": "2022-10-23 00:12:19",
+    "product_id": 13,
+    "selling_price": 44.5,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 429,
+    "inventory_id": 13,
+    "order_date": "2022-08-08 16:18:24",
+    "product_id": 14,
+    "selling_price": 49.77,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 430,
+    "inventory_id": 12,
+    "order_date": "2022-08-05 20:37:21",
+    "product_id": 80,
+    "selling_price": 38.8,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 431,
+    "inventory_id": 33,
+    "order_date": "2023-03-27 09:34:55",
+    "product_id": 55,
+    "selling_price": 65.39,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 432,
+    "inventory_id": 36,
+    "order_date": "2022-04-27 18:26:00",
+    "product_id": 67,
+    "selling_price": 12.62,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 433,
+    "inventory_id": 2,
+    "order_date": "2022-05-14 17:33:38",
+    "product_id": 73,
+    "selling_price": 58.58,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 434,
+    "inventory_id": 33,
+    "order_date": "2022-04-18 12:15:37",
+    "product_id": 76,
+    "selling_price": 38.92,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 435,
+    "inventory_id": 3,
+    "order_date": "2023-02-19 01:56:28",
+    "product_id": 23,
+    "selling_price": 92.35,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 436,
+    "inventory_id": 37,
+    "order_date": "2022-05-10 14:51:19",
+    "product_id": 32,
+    "selling_price": 18.27,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 437,
+    "inventory_id": 38,
+    "order_date": "2022-10-10 14:17:50",
+    "product_id": 71,
+    "selling_price": 21.96,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 438,
+    "inventory_id": 10,
+    "order_date": "2022-08-07 02:00:27",
+    "product_id": 67,
+    "selling_price": 79.66,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 439,
+    "inventory_id": 33,
+    "order_date": "2023-03-15 04:34:27",
+    "product_id": 47,
+    "selling_price": 56.84,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 440,
+    "inventory_id": 26,
+    "order_date": "2023-01-17 21:01:20",
+    "product_id": 81,
+    "selling_price": 35.27,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 441,
+    "inventory_id": 32,
+    "order_date": "2022-12-26 02:40:29",
+    "product_id": 94,
+    "selling_price": 34.56,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 442,
+    "inventory_id": 15,
+    "order_date": "2022-08-21 10:59:07",
+    "product_id": 31,
+    "selling_price": 33.97,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 443,
+    "inventory_id": 25,
+    "order_date": "2023-02-09 13:59:58",
+    "product_id": 90,
+    "selling_price": 18.91,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 444,
+    "inventory_id": 27,
+    "order_date": "2022-08-07 05:33:56",
+    "product_id": 82,
+    "selling_price": 97.85,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 445,
+    "inventory_id": 17,
+    "order_date": "2023-01-10 02:34:46",
+    "product_id": 18,
+    "selling_price": 5.14,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 446,
+    "inventory_id": 33,
+    "order_date": "2022-06-08 14:28:59",
+    "product_id": 27,
+    "selling_price": 53.63,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 447,
+    "inventory_id": 2,
+    "order_date": "2022-11-11 01:37:15",
+    "product_id": 37,
+    "selling_price": 87.73,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 448,
+    "inventory_id": 4,
+    "order_date": "2023-03-08 04:24:47",
+    "product_id": 37,
+    "selling_price": 96.83,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 449,
+    "inventory_id": 1,
+    "order_date": "2022-06-18 11:36:10",
+    "product_id": 13,
+    "selling_price": 76.58,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 450,
+    "inventory_id": 1,
+    "order_date": "2022-11-19 02:28:08",
+    "product_id": 11,
+    "selling_price": 97.43,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 451,
+    "inventory_id": 22,
+    "order_date": "2022-11-27 04:51:37",
+    "product_id": 73,
+    "selling_price": 63.85,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 452,
+    "inventory_id": 38,
+    "order_date": "2022-04-22 18:11:40",
+    "product_id": 77,
+    "selling_price": 52.5,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 453,
+    "inventory_id": 13,
+    "order_date": "2022-05-19 11:53:53",
+    "product_id": 90,
+    "selling_price": 97.19,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 454,
+    "inventory_id": 39,
+    "order_date": "2022-10-19 10:15:22",
+    "product_id": 10,
+    "selling_price": 88.8,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 455,
+    "inventory_id": 28,
+    "order_date": "2022-08-28 11:08:40",
+    "product_id": 88,
+    "selling_price": 93.13,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 456,
+    "inventory_id": 1,
+    "order_date": "2022-09-19 17:02:17",
+    "product_id": 62,
+    "selling_price": 9.44,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 457,
+    "inventory_id": 31,
+    "order_date": "2022-05-08 05:52:42",
+    "product_id": 72,
+    "selling_price": 92.93,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 458,
+    "inventory_id": 30,
+    "order_date": "2022-05-14 04:06:55",
+    "product_id": 84,
+    "selling_price": 6.27,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 459,
+    "inventory_id": 13,
+    "order_date": "2022-06-03 22:59:44",
+    "product_id": 98,
+    "selling_price": 49.02,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 460,
+    "inventory_id": 2,
+    "order_date": "2022-06-25 17:05:44",
+    "product_id": 13,
+    "selling_price": 93.54,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 461,
+    "inventory_id": 40,
+    "order_date": "2022-12-01 02:11:48",
+    "product_id": 46,
+    "selling_price": 27.3,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 462,
+    "inventory_id": 21,
+    "order_date": "2023-01-05 16:34:32",
+    "product_id": 24,
+    "selling_price": 40.48,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 463,
+    "inventory_id": 38,
+    "order_date": "2022-10-17 01:08:04",
+    "product_id": 1,
+    "selling_price": 84.26,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 464,
+    "inventory_id": 16,
+    "order_date": "2022-10-19 15:32:55",
+    "product_id": 96,
+    "selling_price": 61.04,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 465,
+    "inventory_id": 16,
+    "order_date": "2023-03-27 22:29:25",
+    "product_id": 31,
+    "selling_price": 52.35,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 466,
+    "inventory_id": 8,
+    "order_date": "2022-10-05 20:37:24",
+    "product_id": 15,
+    "selling_price": 73.71,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 467,
+    "inventory_id": 22,
+    "order_date": "2023-02-20 03:52:25",
+    "product_id": 91,
+    "selling_price": 64.73,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 468,
+    "inventory_id": 20,
+    "order_date": "2022-09-26 12:12:18",
+    "product_id": 98,
+    "selling_price": 34.52,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 469,
+    "inventory_id": 5,
+    "order_date": "2022-07-14 21:02:41",
+    "product_id": 46,
+    "selling_price": 87.91,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 470,
+    "inventory_id": 20,
+    "order_date": "2022-05-20 21:16:37",
+    "product_id": 40,
+    "selling_price": 6.35,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 471,
+    "inventory_id": 32,
+    "order_date": "2023-04-12 03:40:25",
+    "product_id": 4,
+    "selling_price": 10.32,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 472,
+    "inventory_id": 14,
+    "order_date": "2022-07-27 01:04:13",
+    "product_id": 44,
+    "selling_price": 39.02,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 473,
+    "inventory_id": 30,
+    "order_date": "2022-08-01 21:01:03",
+    "product_id": 80,
+    "selling_price": 80.62,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 474,
+    "inventory_id": 8,
+    "order_date": "2022-12-24 17:47:07",
+    "product_id": 53,
+    "selling_price": 6.03,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 475,
+    "inventory_id": 13,
+    "order_date": "2022-09-11 21:51:45",
+    "product_id": 67,
+    "selling_price": 7.66,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 476,
+    "inventory_id": 21,
+    "order_date": "2022-06-08 02:01:37",
+    "product_id": 72,
+    "selling_price": 46.51,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 477,
+    "inventory_id": 30,
+    "order_date": "2022-05-24 13:16:58",
+    "product_id": 22,
+    "selling_price": 94.18,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 478,
+    "inventory_id": 7,
+    "order_date": "2022-12-20 01:20:13",
+    "product_id": 89,
+    "selling_price": 86.36,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 479,
+    "inventory_id": 1,
+    "order_date": "2022-12-18 02:26:41",
+    "product_id": 27,
+    "selling_price": 5.86,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 480,
+    "inventory_id": 5,
+    "order_date": "2022-07-22 06:03:37",
+    "product_id": 47,
+    "selling_price": 11.86,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 481,
+    "inventory_id": 7,
+    "order_date": "2022-05-27 11:13:42",
+    "product_id": 18,
+    "selling_price": 10.83,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 482,
+    "inventory_id": 31,
+    "order_date": "2022-10-19 22:29:11",
+    "product_id": 18,
+    "selling_price": 99.8,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 483,
+    "inventory_id": 19,
+    "order_date": "2022-11-18 20:16:28",
+    "product_id": 22,
+    "selling_price": 52.6,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 484,
+    "inventory_id": 6,
+    "order_date": "2022-04-18 02:41:21",
+    "product_id": 90,
+    "selling_price": 16.76,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 485,
+    "inventory_id": 4,
+    "order_date": "2022-11-19 13:26:30",
+    "product_id": 100,
+    "selling_price": 63.93,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 486,
+    "inventory_id": 1,
+    "order_date": "2023-01-20 02:17:28",
+    "product_id": 78,
+    "selling_price": 13.66,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 487,
+    "inventory_id": 6,
+    "order_date": "2022-10-29 18:11:14",
+    "product_id": 1,
+    "selling_price": 17.81,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 488,
+    "inventory_id": 34,
+    "order_date": "2022-08-09 10:31:22",
+    "product_id": 81,
+    "selling_price": 12.61,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 489,
+    "inventory_id": 29,
+    "order_date": "2023-02-13 11:32:49",
+    "product_id": 35,
+    "selling_price": 28.58,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 490,
+    "inventory_id": 32,
+    "order_date": "2023-02-05 22:37:29",
+    "product_id": 53,
+    "selling_price": 8.3,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 491,
+    "inventory_id": 24,
+    "order_date": "2023-04-07 12:45:51",
+    "product_id": 79,
+    "selling_price": 94.12,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 492,
+    "inventory_id": 10,
+    "order_date": "2022-09-25 12:35:44",
+    "product_id": 40,
+    "selling_price": 96.01,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 493,
+    "inventory_id": 16,
+    "order_date": "2023-03-31 00:50:15",
+    "product_id": 68,
+    "selling_price": 83.48,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 494,
+    "inventory_id": 17,
+    "order_date": "2022-09-16 08:59:49",
+    "product_id": 71,
+    "selling_price": 82.42,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 495,
+    "inventory_id": 22,
+    "order_date": "2022-11-18 18:09:17",
+    "product_id": 86,
+    "selling_price": 56.03,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 496,
+    "inventory_id": 31,
+    "order_date": "2022-12-23 10:13:27",
+    "product_id": 36,
+    "selling_price": 61.33,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 497,
+    "inventory_id": 16,
+    "order_date": "2023-01-27 17:18:19",
+    "product_id": 97,
+    "selling_price": 87.7,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 498,
+    "inventory_id": 20,
+    "order_date": "2022-05-21 04:15:07",
+    "product_id": 60,
+    "selling_price": 86.56,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 499,
+    "inventory_id": 24,
+    "order_date": "2022-07-11 21:26:21",
+    "product_id": 85,
+    "selling_price": 97.04,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 500,
+    "inventory_id": 4,
+    "order_date": "2022-12-04 12:50:35",
+    "product_id": 63,
+    "selling_price": 94.77,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 501,
+    "inventory_id": 36,
+    "order_date": "2023-04-08 22:57:41",
+    "product_id": 26,
+    "selling_price": 98.58,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 502,
+    "inventory_id": 37,
+    "order_date": "2023-03-08 15:20:46",
+    "product_id": 36,
+    "selling_price": 67.08,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 503,
+    "inventory_id": 40,
+    "order_date": "2022-10-11 16:54:41",
+    "product_id": 78,
+    "selling_price": 75.48,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 504,
+    "inventory_id": 23,
+    "order_date": "2022-08-12 08:29:29",
+    "product_id": 84,
+    "selling_price": 21.39,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 505,
+    "inventory_id": 17,
+    "order_date": "2023-04-04 16:02:08",
+    "product_id": 20,
+    "selling_price": 96.09,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 506,
+    "inventory_id": 11,
+    "order_date": "2022-12-30 07:18:43",
+    "product_id": 87,
+    "selling_price": 94.83,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 507,
+    "inventory_id": 9,
+    "order_date": "2023-02-08 15:35:37",
+    "product_id": 9,
+    "selling_price": 78.05,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 508,
+    "inventory_id": 7,
+    "order_date": "2023-01-03 12:42:15",
+    "product_id": 66,
+    "selling_price": 11.03,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 509,
+    "inventory_id": 23,
+    "order_date": "2023-01-22 08:00:43",
+    "product_id": 51,
+    "selling_price": 74.14,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 510,
+    "inventory_id": 37,
+    "order_date": "2022-04-30 17:42:45",
+    "product_id": 36,
+    "selling_price": 41.45,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 511,
+    "inventory_id": 1,
+    "order_date": "2022-09-07 22:18:41",
+    "product_id": 48,
+    "selling_price": 41.9,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 512,
+    "inventory_id": 22,
+    "order_date": "2023-02-06 15:35:14",
+    "product_id": 95,
+    "selling_price": 33.56,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 513,
+    "inventory_id": 4,
+    "order_date": "2022-06-30 19:54:54",
+    "product_id": 13,
+    "selling_price": 59.74,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 514,
+    "inventory_id": 23,
+    "order_date": "2022-05-29 11:48:58",
+    "product_id": 75,
+    "selling_price": 49.35,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 515,
+    "inventory_id": 29,
+    "order_date": "2022-10-30 03:53:51",
+    "product_id": 22,
+    "selling_price": 77.22,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 516,
+    "inventory_id": 1,
+    "order_date": "2023-04-10 07:03:21",
+    "product_id": 21,
+    "selling_price": 2.15,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 517,
+    "inventory_id": 36,
+    "order_date": "2022-10-13 08:26:56",
+    "product_id": 64,
+    "selling_price": 19.24,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 518,
+    "inventory_id": 21,
+    "order_date": "2022-07-22 16:14:12",
+    "product_id": 99,
+    "selling_price": 18.2,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 519,
+    "inventory_id": 6,
+    "order_date": "2022-04-29 20:49:38",
+    "product_id": 38,
+    "selling_price": 39.42,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 520,
+    "inventory_id": 22,
+    "order_date": "2022-12-23 19:56:22",
+    "product_id": 97,
+    "selling_price": 38.29,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 521,
+    "inventory_id": 25,
+    "order_date": "2022-11-16 04:09:23",
+    "product_id": 46,
+    "selling_price": 29.62,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 522,
+    "inventory_id": 30,
+    "order_date": "2022-07-22 12:58:12",
+    "product_id": 28,
+    "selling_price": 28.68,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 523,
+    "inventory_id": 3,
+    "order_date": "2022-07-01 23:35:18",
+    "product_id": 61,
+    "selling_price": 1.07,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 524,
+    "inventory_id": 25,
+    "order_date": "2022-12-08 21:03:18",
+    "product_id": 68,
+    "selling_price": 64.75,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 525,
+    "inventory_id": 24,
+    "order_date": "2022-05-29 13:43:45",
+    "product_id": 94,
+    "selling_price": 22.34,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 526,
+    "inventory_id": 26,
+    "order_date": "2022-05-06 04:39:13",
+    "product_id": 66,
+    "selling_price": 54.61,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 527,
+    "inventory_id": 16,
+    "order_date": "2022-10-08 12:50:50",
+    "product_id": 90,
+    "selling_price": 92.11,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 528,
+    "inventory_id": 14,
+    "order_date": "2022-12-30 05:15:34",
+    "product_id": 7,
+    "selling_price": 60.31,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 529,
+    "inventory_id": 3,
+    "order_date": "2022-10-20 16:56:21",
+    "product_id": 99,
+    "selling_price": 45.39,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 530,
+    "inventory_id": 13,
+    "order_date": "2022-12-15 01:37:47",
+    "product_id": 76,
+    "selling_price": 49.56,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 531,
+    "inventory_id": 24,
+    "order_date": "2022-07-24 05:53:50",
+    "product_id": 20,
+    "selling_price": 92.68,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 532,
+    "inventory_id": 2,
+    "order_date": "2022-12-04 06:37:03",
+    "product_id": 44,
+    "selling_price": 29.03,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 533,
+    "inventory_id": 26,
+    "order_date": "2023-03-10 04:31:16",
+    "product_id": 74,
+    "selling_price": 99.27,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 534,
+    "inventory_id": 21,
+    "order_date": "2023-04-09 13:29:13",
+    "product_id": 73,
+    "selling_price": 36.4,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 535,
+    "inventory_id": 3,
+    "order_date": "2022-05-06 23:06:43",
+    "product_id": 38,
+    "selling_price": 1.85,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 536,
+    "inventory_id": 26,
+    "order_date": "2022-04-18 18:42:59",
+    "product_id": 76,
+    "selling_price": 20.99,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 537,
+    "inventory_id": 26,
+    "order_date": "2022-10-11 06:33:55",
+    "product_id": 21,
+    "selling_price": 78.02,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 538,
+    "inventory_id": 2,
+    "order_date": "2022-06-03 17:05:03",
+    "product_id": 72,
+    "selling_price": 21.68,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 539,
+    "inventory_id": 23,
+    "order_date": "2022-11-28 15:38:42",
+    "product_id": 43,
+    "selling_price": 23.81,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 540,
+    "inventory_id": 29,
+    "order_date": "2023-03-30 09:44:30",
+    "product_id": 90,
+    "selling_price": 84.63,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 541,
+    "inventory_id": 13,
+    "order_date": "2023-03-01 07:11:51",
+    "product_id": 100,
+    "selling_price": 40.65,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 542,
+    "inventory_id": 39,
+    "order_date": "2022-12-20 09:20:56",
+    "product_id": 60,
+    "selling_price": 5.82,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 543,
+    "inventory_id": 14,
+    "order_date": "2023-03-05 14:15:29",
+    "product_id": 64,
+    "selling_price": 50.07,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 544,
+    "inventory_id": 6,
+    "order_date": "2022-08-09 10:25:27",
+    "product_id": 9,
+    "selling_price": 29.8,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 545,
+    "inventory_id": 5,
+    "order_date": "2022-11-08 00:22:35",
+    "product_id": 65,
+    "selling_price": 31.83,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 546,
+    "inventory_id": 16,
+    "order_date": "2022-09-16 20:00:36",
+    "product_id": 84,
+    "selling_price": 85.07,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 547,
+    "inventory_id": 1,
+    "order_date": "2022-10-28 13:01:53",
+    "product_id": 50,
+    "selling_price": 18.46,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 548,
+    "inventory_id": 25,
+    "order_date": "2022-10-29 12:34:47",
+    "product_id": 29,
+    "selling_price": 57.6,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 549,
+    "inventory_id": 9,
+    "order_date": "2022-07-22 00:00:33",
+    "product_id": 36,
+    "selling_price": 72.73,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 550,
+    "inventory_id": 16,
+    "order_date": "2022-10-17 19:14:23",
+    "product_id": 58,
+    "selling_price": 56.81,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 551,
+    "inventory_id": 10,
+    "order_date": "2022-05-22 14:22:23",
+    "product_id": 80,
+    "selling_price": 63.29,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 552,
+    "inventory_id": 31,
+    "order_date": "2022-11-01 10:57:09",
+    "product_id": 67,
+    "selling_price": 57.94,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 553,
+    "inventory_id": 21,
+    "order_date": "2023-02-23 07:13:46",
+    "product_id": 3,
+    "selling_price": 94.03,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 554,
+    "inventory_id": 9,
+    "order_date": "2023-04-09 03:31:02",
+    "product_id": 80,
+    "selling_price": 36.93,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 555,
+    "inventory_id": 18,
+    "order_date": "2022-07-05 08:08:21",
+    "product_id": 27,
+    "selling_price": 14.44,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 556,
+    "inventory_id": 28,
+    "order_date": "2022-09-18 11:59:42",
+    "product_id": 59,
+    "selling_price": 46.3,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 557,
+    "inventory_id": 10,
+    "order_date": "2023-01-19 14:30:16",
+    "product_id": 6,
+    "selling_price": 6.1,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 558,
+    "inventory_id": 33,
+    "order_date": "2022-08-25 14:03:29",
+    "product_id": 52,
+    "selling_price": 97.56,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 559,
+    "inventory_id": 24,
+    "order_date": "2023-02-17 15:54:40",
+    "product_id": 67,
+    "selling_price": 20.63,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 560,
+    "inventory_id": 6,
+    "order_date": "2023-01-22 15:27:32",
+    "product_id": 26,
+    "selling_price": 94.8,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 561,
+    "inventory_id": 7,
+    "order_date": "2022-05-26 12:41:50",
+    "product_id": 45,
+    "selling_price": 21.85,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 562,
+    "inventory_id": 1,
+    "order_date": "2022-08-08 06:51:10",
+    "product_id": 61,
+    "selling_price": 14.82,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 563,
+    "inventory_id": 38,
+    "order_date": "2022-11-04 15:32:11",
+    "product_id": 4,
+    "selling_price": 5.8,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 564,
+    "inventory_id": 19,
+    "order_date": "2023-02-24 01:06:41",
+    "product_id": 42,
+    "selling_price": 76.29,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 565,
+    "inventory_id": 16,
+    "order_date": "2022-05-08 17:03:28",
+    "product_id": 18,
+    "selling_price": 91.88,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 566,
+    "inventory_id": 5,
+    "order_date": "2022-04-18 18:50:28",
+    "product_id": 93,
+    "selling_price": 46.09,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 567,
+    "inventory_id": 18,
+    "order_date": "2022-08-12 05:46:59",
+    "product_id": 24,
+    "selling_price": 55.51,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 568,
+    "inventory_id": 13,
+    "order_date": "2022-12-01 07:34:47",
+    "product_id": 91,
+    "selling_price": 27.44,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 569,
+    "inventory_id": 28,
+    "order_date": "2023-02-09 18:02:08",
+    "product_id": 31,
+    "selling_price": 20.85,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 570,
+    "inventory_id": 9,
+    "order_date": "2023-03-26 00:04:24",
+    "product_id": 54,
+    "selling_price": 74.13,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 571,
+    "inventory_id": 6,
+    "order_date": "2022-08-03 19:32:12",
+    "product_id": 68,
+    "selling_price": 7.64,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 572,
+    "inventory_id": 17,
+    "order_date": "2022-10-21 07:30:08",
+    "product_id": 82,
+    "selling_price": 71.09,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 573,
+    "inventory_id": 13,
+    "order_date": "2022-09-13 20:29:04",
+    "product_id": 99,
+    "selling_price": 31.87,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 574,
+    "inventory_id": 4,
+    "order_date": "2022-10-29 21:09:51",
+    "product_id": 26,
+    "selling_price": 20.55,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 575,
+    "inventory_id": 11,
+    "order_date": "2022-09-02 10:08:07",
+    "product_id": 99,
+    "selling_price": 69.82,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 576,
+    "inventory_id": 25,
+    "order_date": "2022-07-03 06:49:47",
+    "product_id": 12,
+    "selling_price": 35.28,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 577,
+    "inventory_id": 24,
+    "order_date": "2022-05-20 18:24:35",
+    "product_id": 10,
+    "selling_price": 82.3,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 578,
+    "inventory_id": 17,
+    "order_date": "2022-12-30 15:58:04",
+    "product_id": 70,
+    "selling_price": 30.63,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 579,
+    "inventory_id": 7,
+    "order_date": "2023-01-13 19:32:39",
+    "product_id": 55,
+    "selling_price": 2.79,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 580,
+    "inventory_id": 11,
+    "order_date": "2023-02-08 12:32:24",
+    "product_id": 46,
+    "selling_price": 8.15,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 581,
+    "inventory_id": 1,
+    "order_date": "2022-06-13 10:49:26",
+    "product_id": 10,
+    "selling_price": 63.1,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 582,
+    "inventory_id": 18,
+    "order_date": "2022-09-13 04:16:31",
+    "product_id": 32,
+    "selling_price": 99.63,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 583,
+    "inventory_id": 21,
+    "order_date": "2023-02-11 02:23:14",
+    "product_id": 11,
+    "selling_price": 26.07,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 584,
+    "inventory_id": 23,
+    "order_date": "2023-02-11 07:54:21",
+    "product_id": 76,
+    "selling_price": 26.98,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 585,
+    "inventory_id": 33,
+    "order_date": "2022-04-18 22:22:54",
+    "product_id": 49,
+    "selling_price": 5.86,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 586,
+    "inventory_id": 1,
+    "order_date": "2022-10-16 20:10:25",
+    "product_id": 70,
+    "selling_price": 64.54,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 587,
+    "inventory_id": 38,
+    "order_date": "2022-12-29 18:24:25",
+    "product_id": 92,
+    "selling_price": 87.3,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 588,
+    "inventory_id": 14,
+    "order_date": "2022-12-03 06:40:28",
+    "product_id": 39,
+    "selling_price": 17.43,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 589,
+    "inventory_id": 4,
+    "order_date": "2022-09-27 16:06:06",
+    "product_id": 87,
+    "selling_price": 74.7,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 590,
+    "inventory_id": 13,
+    "order_date": "2023-01-30 00:22:22",
+    "product_id": 64,
+    "selling_price": 11.11,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 591,
+    "inventory_id": 31,
+    "order_date": "2023-03-07 03:26:27",
+    "product_id": 59,
+    "selling_price": 22.46,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 592,
+    "inventory_id": 15,
+    "order_date": "2022-05-17 12:00:50",
+    "product_id": 77,
+    "selling_price": 92.86,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 593,
+    "inventory_id": 28,
+    "order_date": "2023-03-20 08:32:41",
+    "product_id": 36,
+    "selling_price": 40.6,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 594,
+    "inventory_id": 30,
+    "order_date": "2022-08-05 11:54:02",
+    "product_id": 90,
+    "selling_price": 87.53,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 595,
+    "inventory_id": 18,
+    "order_date": "2022-11-21 00:16:11",
+    "product_id": 21,
+    "selling_price": 79.19,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 596,
+    "inventory_id": 39,
+    "order_date": "2023-02-15 07:21:49",
+    "product_id": 67,
+    "selling_price": 10.62,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 597,
+    "inventory_id": 11,
+    "order_date": "2022-05-18 05:10:05",
+    "product_id": 92,
+    "selling_price": 18.72,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 598,
+    "inventory_id": 39,
+    "order_date": "2022-11-24 18:44:46",
+    "product_id": 5,
+    "selling_price": 43.82,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 599,
+    "inventory_id": 24,
+    "order_date": "2022-08-06 05:40:36",
+    "product_id": 8,
+    "selling_price": 3.47,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 600,
+    "inventory_id": 36,
+    "order_date": "2023-01-17 01:58:29",
+    "product_id": 70,
+    "selling_price": 27.77,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 601,
+    "inventory_id": 28,
+    "order_date": "2022-08-27 11:38:09",
+    "product_id": 21,
+    "selling_price": 30.65,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 602,
+    "inventory_id": 4,
+    "order_date": "2023-01-10 16:08:08",
+    "product_id": 95,
+    "selling_price": 99.55,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 603,
+    "inventory_id": 23,
+    "order_date": "2023-03-29 19:51:36",
+    "product_id": 40,
+    "selling_price": 92.27,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 604,
+    "inventory_id": 1,
+    "order_date": "2022-10-18 18:56:01",
+    "product_id": 62,
+    "selling_price": 1.45,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 605,
+    "inventory_id": 30,
+    "order_date": "2022-08-19 21:58:16",
+    "product_id": 93,
+    "selling_price": 53.23,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 606,
+    "inventory_id": 2,
+    "order_date": "2022-04-27 12:40:51",
+    "product_id": 37,
+    "selling_price": 53.65,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 607,
+    "inventory_id": 29,
+    "order_date": "2022-04-21 12:26:20",
+    "product_id": 7,
+    "selling_price": 80.08,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 608,
+    "inventory_id": 12,
+    "order_date": "2022-06-10 17:06:10",
+    "product_id": 92,
+    "selling_price": 18.89,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 609,
+    "inventory_id": 13,
+    "order_date": "2022-07-04 07:20:07",
+    "product_id": 7,
+    "selling_price": 21.67,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 610,
+    "inventory_id": 10,
+    "order_date": "2022-10-08 13:07:18",
+    "product_id": 75,
+    "selling_price": 45.85,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 611,
+    "inventory_id": 30,
+    "order_date": "2023-04-03 04:15:14",
+    "product_id": 60,
+    "selling_price": 86.96,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 612,
+    "inventory_id": 29,
+    "order_date": "2022-09-05 22:09:45",
+    "product_id": 71,
+    "selling_price": 58.29,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 613,
+    "inventory_id": 34,
+    "order_date": "2023-03-23 12:22:04",
+    "product_id": 22,
+    "selling_price": 64.94,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 614,
+    "inventory_id": 14,
+    "order_date": "2022-09-28 07:20:09",
+    "product_id": 24,
+    "selling_price": 40.63,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 615,
+    "inventory_id": 11,
+    "order_date": "2022-06-07 10:50:19",
+    "product_id": 72,
+    "selling_price": 99.84,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 616,
+    "inventory_id": 32,
+    "order_date": "2022-04-27 15:11:48",
+    "product_id": 18,
+    "selling_price": 25.57,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 617,
+    "inventory_id": 15,
+    "order_date": "2023-02-09 08:30:11",
+    "product_id": 51,
+    "selling_price": 70.83,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 618,
+    "inventory_id": 1,
+    "order_date": "2022-06-28 20:06:54",
+    "product_id": 33,
+    "selling_price": 14.59,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 619,
+    "inventory_id": 8,
+    "order_date": "2022-11-26 01:29:36",
+    "product_id": 84,
+    "selling_price": 14.33,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 620,
+    "inventory_id": 3,
+    "order_date": "2022-10-20 06:50:16",
+    "product_id": 52,
+    "selling_price": 93.5,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 621,
+    "inventory_id": 7,
+    "order_date": "2022-05-15 03:13:26",
+    "product_id": 72,
+    "selling_price": 96.03,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 622,
+    "inventory_id": 37,
+    "order_date": "2023-02-06 21:33:13",
+    "product_id": 62,
+    "selling_price": 76.59,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 623,
+    "inventory_id": 16,
+    "order_date": "2022-10-26 22:51:19",
+    "product_id": 22,
+    "selling_price": 77.04,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 624,
+    "inventory_id": 34,
+    "order_date": "2022-12-29 08:27:39",
+    "product_id": 99,
+    "selling_price": 91.56,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 625,
+    "inventory_id": 26,
+    "order_date": "2022-08-15 18:14:23",
+    "product_id": 100,
+    "selling_price": 99,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 626,
+    "inventory_id": 5,
+    "order_date": "2023-01-15 18:30:11",
+    "product_id": 92,
+    "selling_price": 55.62,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 627,
+    "inventory_id": 40,
+    "order_date": "2022-11-15 19:46:58",
+    "product_id": 16,
+    "selling_price": 48.39,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 628,
+    "inventory_id": 14,
+    "order_date": "2022-12-28 14:04:08",
+    "product_id": 4,
+    "selling_price": 45.63,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 629,
+    "inventory_id": 27,
+    "order_date": "2022-04-15 12:21:49",
+    "product_id": 50,
+    "selling_price": 49.76,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 630,
+    "inventory_id": 35,
+    "order_date": "2022-11-20 05:49:09",
+    "product_id": 30,
+    "selling_price": 83.3,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 631,
+    "inventory_id": 32,
+    "order_date": "2022-05-03 14:07:44",
+    "product_id": 96,
+    "selling_price": 25.08,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 632,
+    "inventory_id": 34,
+    "order_date": "2023-03-21 06:51:23",
+    "product_id": 55,
+    "selling_price": 9.22,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 633,
+    "inventory_id": 19,
+    "order_date": "2022-07-14 07:48:48",
+    "product_id": 71,
+    "selling_price": 25.06,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 634,
+    "inventory_id": 12,
+    "order_date": "2022-08-16 20:36:40",
+    "product_id": 10,
+    "selling_price": 51.06,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 635,
+    "inventory_id": 7,
+    "order_date": "2022-05-12 01:39:37",
+    "product_id": 73,
+    "selling_price": 35.78,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 636,
+    "inventory_id": 5,
+    "order_date": "2023-01-16 00:14:06",
+    "product_id": 3,
+    "selling_price": 9.78,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 637,
+    "inventory_id": 33,
+    "order_date": "2023-03-06 23:59:50",
+    "product_id": 17,
+    "selling_price": 10.17,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 638,
+    "inventory_id": 4,
+    "order_date": "2022-05-29 10:17:57",
+    "product_id": 26,
+    "selling_price": 45.94,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 639,
+    "inventory_id": 39,
+    "order_date": "2022-08-05 02:32:45",
+    "product_id": 36,
+    "selling_price": 2.64,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 640,
+    "inventory_id": 22,
+    "order_date": "2022-12-17 05:11:51",
+    "product_id": 36,
+    "selling_price": 55.79,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 641,
+    "inventory_id": 7,
+    "order_date": "2022-05-17 18:59:15",
+    "product_id": 14,
+    "selling_price": 31.68,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 642,
+    "inventory_id": 3,
+    "order_date": "2022-06-29 02:34:46",
+    "product_id": 76,
+    "selling_price": 14.15,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 643,
+    "inventory_id": 28,
+    "order_date": "2022-08-27 08:22:53",
+    "product_id": 31,
+    "selling_price": 5.59,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 644,
+    "inventory_id": 30,
+    "order_date": "2022-04-25 10:59:08",
+    "product_id": 28,
+    "selling_price": 91.65,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 645,
+    "inventory_id": 11,
+    "order_date": "2023-02-24 16:31:36",
+    "product_id": 41,
+    "selling_price": 18.93,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 646,
+    "inventory_id": 19,
+    "order_date": "2022-09-18 00:19:43",
+    "product_id": 65,
+    "selling_price": 87.13,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 647,
+    "inventory_id": 28,
+    "order_date": "2022-12-03 07:09:38",
+    "product_id": 100,
+    "selling_price": 67.62,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 648,
+    "inventory_id": 31,
+    "order_date": "2022-05-11 23:36:32",
+    "product_id": 76,
+    "selling_price": 49.67,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 649,
+    "inventory_id": 39,
+    "order_date": "2023-03-23 23:49:06",
+    "product_id": 6,
+    "selling_price": 55.77,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 650,
+    "inventory_id": 2,
+    "order_date": "2022-12-26 00:22:36",
+    "product_id": 7,
+    "selling_price": 31.81,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 651,
+    "inventory_id": 9,
+    "order_date": "2022-08-22 10:11:10",
+    "product_id": 75,
+    "selling_price": 57.51,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 652,
+    "inventory_id": 16,
+    "order_date": "2022-10-05 00:51:24",
+    "product_id": 72,
+    "selling_price": 25.76,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 653,
+    "inventory_id": 33,
+    "order_date": "2022-10-02 03:35:33",
+    "product_id": 85,
+    "selling_price": 22.39,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 654,
+    "inventory_id": 14,
+    "order_date": "2023-04-10 08:21:39",
+    "product_id": 25,
+    "selling_price": 26.42,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 655,
+    "inventory_id": 23,
+    "order_date": "2022-11-29 16:22:19",
+    "product_id": 9,
+    "selling_price": 94.14,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 656,
+    "inventory_id": 28,
+    "order_date": "2023-01-19 23:35:22",
+    "product_id": 100,
+    "selling_price": 27.25,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 657,
+    "inventory_id": 39,
+    "order_date": "2022-10-23 03:32:54",
+    "product_id": 12,
+    "selling_price": 78.35,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 658,
+    "inventory_id": 20,
+    "order_date": "2022-06-04 23:35:20",
+    "product_id": 27,
+    "selling_price": 99.38,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 659,
+    "inventory_id": 2,
+    "order_date": "2022-09-10 23:14:26",
+    "product_id": 10,
+    "selling_price": 21.43,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 660,
+    "inventory_id": 18,
+    "order_date": "2022-11-03 06:19:24",
+    "product_id": 74,
+    "selling_price": 5.18,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 661,
+    "inventory_id": 25,
+    "order_date": "2023-03-29 10:23:52",
+    "product_id": 16,
+    "selling_price": 72,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 662,
+    "inventory_id": 2,
+    "order_date": "2023-02-13 20:35:56",
+    "product_id": 99,
+    "selling_price": 14.09,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 663,
+    "inventory_id": 31,
+    "order_date": "2022-12-13 06:10:04",
+    "product_id": 55,
+    "selling_price": 28.1,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 664,
+    "inventory_id": 5,
+    "order_date": "2022-09-13 18:27:54",
+    "product_id": 5,
+    "selling_price": 12.25,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 665,
+    "inventory_id": 16,
+    "order_date": "2022-06-25 04:21:12",
+    "product_id": 77,
+    "selling_price": 47.47,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 666,
+    "inventory_id": 26,
+    "order_date": "2022-09-27 21:18:18",
+    "product_id": 82,
+    "selling_price": 28.66,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 667,
+    "inventory_id": 8,
+    "order_date": "2022-11-21 21:46:28",
+    "product_id": 24,
+    "selling_price": 67.85,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 668,
+    "inventory_id": 34,
+    "order_date": "2022-08-26 06:36:43",
+    "product_id": 58,
+    "selling_price": 51.55,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 669,
+    "inventory_id": 16,
+    "order_date": "2023-03-18 16:48:54",
+    "product_id": 70,
+    "selling_price": 30.86,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 670,
+    "inventory_id": 1,
+    "order_date": "2022-12-30 04:21:53",
+    "product_id": 97,
+    "selling_price": 65.77,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 671,
+    "inventory_id": 10,
+    "order_date": "2023-03-23 22:36:04",
+    "product_id": 55,
+    "selling_price": 87.33,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 672,
+    "inventory_id": 2,
+    "order_date": "2022-06-04 02:54:20",
+    "product_id": 71,
+    "selling_price": 93.63,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 673,
+    "inventory_id": 15,
+    "order_date": "2022-09-30 03:24:32",
+    "product_id": 18,
+    "selling_price": 47.01,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 674,
+    "inventory_id": 34,
+    "order_date": "2022-09-01 20:41:41",
+    "product_id": 8,
+    "selling_price": 93.23,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 675,
+    "inventory_id": 18,
+    "order_date": "2022-11-10 01:59:59",
+    "product_id": 58,
+    "selling_price": 44.71,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 676,
+    "inventory_id": 5,
+    "order_date": "2023-02-05 07:05:01",
+    "product_id": 39,
+    "selling_price": 13.3,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 677,
+    "inventory_id": 39,
+    "order_date": "2023-01-09 04:06:17",
+    "product_id": 82,
+    "selling_price": 8.67,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 678,
+    "inventory_id": 29,
+    "order_date": "2022-05-06 02:02:03",
+    "product_id": 6,
+    "selling_price": 86.39,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 679,
+    "inventory_id": 13,
+    "order_date": "2022-10-10 14:13:49",
+    "product_id": 9,
+    "selling_price": 81.7,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 680,
+    "inventory_id": 20,
+    "order_date": "2023-01-31 20:16:08",
+    "product_id": 2,
+    "selling_price": 19.9,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 681,
+    "inventory_id": 40,
+    "order_date": "2023-01-21 04:06:31",
+    "product_id": 74,
+    "selling_price": 90.77,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 682,
+    "inventory_id": 34,
+    "order_date": "2022-08-18 09:06:13",
+    "product_id": 54,
+    "selling_price": 35.16,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 683,
+    "inventory_id": 35,
+    "order_date": "2022-10-01 11:35:06",
+    "product_id": 50,
+    "selling_price": 12.99,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 684,
+    "inventory_id": 37,
+    "order_date": "2022-11-05 11:02:57",
+    "product_id": 98,
+    "selling_price": 68.42,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 685,
+    "inventory_id": 5,
+    "order_date": "2022-10-21 16:29:31",
+    "product_id": 53,
+    "selling_price": 37.09,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 686,
+    "inventory_id": 38,
+    "order_date": "2022-11-28 04:51:18",
+    "product_id": 79,
+    "selling_price": 22.04,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 687,
+    "inventory_id": 31,
+    "order_date": "2022-10-24 11:21:43",
+    "product_id": 12,
+    "selling_price": 53.42,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 688,
+    "inventory_id": 18,
+    "order_date": "2022-06-11 07:32:38",
+    "product_id": 58,
+    "selling_price": 97.61,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 689,
+    "inventory_id": 24,
+    "order_date": "2022-12-23 18:04:25",
+    "product_id": 31,
+    "selling_price": 3.02,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 690,
+    "inventory_id": 9,
+    "order_date": "2023-01-13 16:42:24",
+    "product_id": 88,
+    "selling_price": 7.96,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 691,
+    "inventory_id": 10,
+    "order_date": "2022-10-07 17:34:41",
+    "product_id": 77,
+    "selling_price": 12.77,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 692,
+    "inventory_id": 1,
+    "order_date": "2023-04-03 16:49:08",
+    "product_id": 75,
+    "selling_price": 14.11,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 693,
+    "inventory_id": 28,
+    "order_date": "2023-03-11 02:14:12",
+    "product_id": 48,
+    "selling_price": 48.39,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 694,
+    "inventory_id": 12,
+    "order_date": "2022-07-27 22:47:14",
+    "product_id": 33,
+    "selling_price": 56.43,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 695,
+    "inventory_id": 34,
+    "order_date": "2022-06-07 22:02:02",
+    "product_id": 34,
+    "selling_price": 86.74,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 696,
+    "inventory_id": 17,
+    "order_date": "2023-02-27 09:41:23",
+    "product_id": 87,
+    "selling_price": 82.82,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 697,
+    "inventory_id": 10,
+    "order_date": "2022-05-31 08:41:03",
+    "product_id": 29,
+    "selling_price": 78.57,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 698,
+    "inventory_id": 28,
+    "order_date": "2022-08-13 15:56:38",
+    "product_id": 9,
+    "selling_price": 67.04,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 699,
+    "inventory_id": 36,
+    "order_date": "2022-11-26 12:17:44",
+    "product_id": 25,
+    "selling_price": 98.19,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 700,
+    "inventory_id": 26,
+    "order_date": "2023-02-11 04:39:19",
+    "product_id": 38,
+    "selling_price": 57.13,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 701,
+    "inventory_id": 13,
+    "order_date": "2022-12-21 13:50:56",
+    "product_id": 93,
+    "selling_price": 92.27,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 702,
+    "inventory_id": 31,
+    "order_date": "2022-10-01 13:17:18",
+    "product_id": 56,
+    "selling_price": 43.13,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 703,
+    "inventory_id": 27,
+    "order_date": "2023-04-04 18:14:54",
+    "product_id": 90,
+    "selling_price": 13.25,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 704,
+    "inventory_id": 8,
+    "order_date": "2022-06-12 23:03:45",
+    "product_id": 69,
+    "selling_price": 83.77,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 705,
+    "inventory_id": 32,
+    "order_date": "2022-11-01 11:44:43",
+    "product_id": 46,
+    "selling_price": 43.72,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 706,
+    "inventory_id": 36,
+    "order_date": "2022-08-16 17:53:14",
+    "product_id": 95,
+    "selling_price": 2.77,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 707,
+    "inventory_id": 28,
+    "order_date": "2022-09-09 09:48:43",
+    "product_id": 50,
+    "selling_price": 91.93,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 708,
+    "inventory_id": 1,
+    "order_date": "2022-12-07 17:57:57",
+    "product_id": 13,
+    "selling_price": 74.03,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 709,
+    "inventory_id": 29,
+    "order_date": "2022-05-17 04:20:31",
+    "product_id": 56,
+    "selling_price": 69.2,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 710,
+    "inventory_id": 24,
+    "order_date": "2023-01-01 06:23:58",
+    "product_id": 22,
+    "selling_price": 35.69,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 711,
+    "inventory_id": 12,
+    "order_date": "2023-02-09 21:13:04",
+    "product_id": 91,
+    "selling_price": 71.6,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 712,
+    "inventory_id": 28,
+    "order_date": "2022-10-24 14:32:17",
+    "product_id": 29,
+    "selling_price": 4.6,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 713,
+    "inventory_id": 13,
+    "order_date": "2022-12-29 23:06:28",
+    "product_id": 91,
+    "selling_price": 72.9,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 714,
+    "inventory_id": 32,
+    "order_date": "2022-08-08 07:35:28",
+    "product_id": 92,
+    "selling_price": 88.47,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 715,
+    "inventory_id": 1,
+    "order_date": "2023-02-13 03:32:01",
+    "product_id": 57,
+    "selling_price": 58.64,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 716,
+    "inventory_id": 35,
+    "order_date": "2022-08-30 21:16:50",
+    "product_id": 66,
+    "selling_price": 1.28,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 717,
+    "inventory_id": 22,
+    "order_date": "2022-12-17 11:27:33",
+    "product_id": 65,
+    "selling_price": 23.04,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 718,
+    "inventory_id": 37,
+    "order_date": "2022-07-03 04:10:19",
+    "product_id": 87,
+    "selling_price": 52.4,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 719,
+    "inventory_id": 28,
+    "order_date": "2022-07-05 10:15:44",
+    "product_id": 52,
+    "selling_price": 57.86,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 720,
+    "inventory_id": 32,
+    "order_date": "2022-07-05 21:10:41",
+    "product_id": 35,
+    "selling_price": 49.8,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 721,
+    "inventory_id": 7,
+    "order_date": "2022-08-04 19:56:50",
+    "product_id": 64,
+    "selling_price": 32.38,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 722,
+    "inventory_id": 14,
+    "order_date": "2023-01-01 23:05:41",
+    "product_id": 29,
+    "selling_price": 84.98,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 723,
+    "inventory_id": 3,
+    "order_date": "2022-06-16 04:09:00",
+    "product_id": 78,
+    "selling_price": 92.86,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 724,
+    "inventory_id": 19,
+    "order_date": "2022-07-08 13:45:04",
+    "product_id": 83,
+    "selling_price": 2.66,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 725,
+    "inventory_id": 6,
+    "order_date": "2022-11-18 10:04:47",
+    "product_id": 93,
+    "selling_price": 62.53,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 726,
+    "inventory_id": 11,
+    "order_date": "2023-02-12 00:51:52",
+    "product_id": 60,
+    "selling_price": 13.24,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 727,
+    "inventory_id": 28,
+    "order_date": "2022-07-01 11:37:46",
+    "product_id": 51,
+    "selling_price": 27.86,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 728,
+    "inventory_id": 12,
+    "order_date": "2023-04-08 10:55:20",
+    "product_id": 90,
+    "selling_price": 84.03,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 729,
+    "inventory_id": 18,
+    "order_date": "2022-09-16 12:28:14",
+    "product_id": 82,
+    "selling_price": 84.34,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 730,
+    "inventory_id": 1,
+    "order_date": "2022-04-21 03:02:28",
+    "product_id": 9,
+    "selling_price": 79.04,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 731,
+    "inventory_id": 4,
+    "order_date": "2022-11-29 14:52:10",
+    "product_id": 59,
+    "selling_price": 23.62,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 732,
+    "inventory_id": 7,
+    "order_date": "2023-03-03 01:32:35",
+    "product_id": 34,
+    "selling_price": 33.05,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 733,
+    "inventory_id": 16,
+    "order_date": "2022-10-13 14:24:22",
+    "product_id": 47,
+    "selling_price": 24.64,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 734,
+    "inventory_id": 15,
+    "order_date": "2022-05-08 07:55:47",
+    "product_id": 69,
+    "selling_price": 70.09,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 735,
+    "inventory_id": 1,
+    "order_date": "2022-06-25 15:18:52",
+    "product_id": 30,
+    "selling_price": 33,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 736,
+    "inventory_id": 12,
+    "order_date": "2023-02-28 10:42:05",
+    "product_id": 2,
+    "selling_price": 47.24,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 737,
+    "inventory_id": 8,
+    "order_date": "2022-10-06 23:09:59",
+    "product_id": 44,
+    "selling_price": 13.09,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 738,
+    "inventory_id": 15,
+    "order_date": "2022-06-21 17:12:04",
+    "product_id": 72,
+    "selling_price": 79.67,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 739,
+    "inventory_id": 8,
+    "order_date": "2022-08-21 15:51:10",
+    "product_id": 92,
+    "selling_price": 92.41,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 740,
+    "inventory_id": 5,
+    "order_date": "2022-07-17 01:45:09",
+    "product_id": 3,
+    "selling_price": 33.56,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 741,
+    "inventory_id": 30,
+    "order_date": "2022-11-27 14:29:11",
+    "product_id": 10,
+    "selling_price": 70.18,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 742,
+    "inventory_id": 19,
+    "order_date": "2022-12-21 06:26:44",
+    "product_id": 71,
+    "selling_price": 37.63,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 743,
+    "inventory_id": 2,
+    "order_date": "2022-07-01 12:09:41",
+    "product_id": 61,
+    "selling_price": 52.05,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 744,
+    "inventory_id": 4,
+    "order_date": "2023-02-20 13:40:57",
+    "product_id": 69,
+    "selling_price": 54.52,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 745,
+    "inventory_id": 21,
+    "order_date": "2022-11-30 14:57:00",
+    "product_id": 2,
+    "selling_price": 16.72,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 746,
+    "inventory_id": 36,
+    "order_date": "2022-07-13 13:17:47",
+    "product_id": 3,
+    "selling_price": 78.99,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 747,
+    "inventory_id": 6,
+    "order_date": "2023-03-19 05:17:40",
+    "product_id": 42,
+    "selling_price": 96.51,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 748,
+    "inventory_id": 32,
+    "order_date": "2022-12-05 07:08:42",
+    "product_id": 26,
+    "selling_price": 58.33,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 749,
+    "inventory_id": 5,
+    "order_date": "2022-12-17 21:04:18",
+    "product_id": 97,
+    "selling_price": 71.09,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 750,
+    "inventory_id": 6,
+    "order_date": "2022-05-15 11:09:41",
+    "product_id": 7,
+    "selling_price": 60.04,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 751,
+    "inventory_id": 9,
+    "order_date": "2022-07-14 01:00:11",
+    "product_id": 14,
+    "selling_price": 29.98,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 752,
+    "inventory_id": 11,
+    "order_date": "2022-11-18 05:07:46",
+    "product_id": 73,
+    "selling_price": 29.43,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 753,
+    "inventory_id": 12,
+    "order_date": "2022-05-10 07:45:15",
+    "product_id": 22,
+    "selling_price": 23.91,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 754,
+    "inventory_id": 17,
+    "order_date": "2023-01-18 13:31:16",
+    "product_id": 40,
+    "selling_price": 34.38,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 755,
+    "inventory_id": 20,
+    "order_date": "2023-04-11 05:01:05",
+    "product_id": 6,
+    "selling_price": 6.73,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 756,
+    "inventory_id": 36,
+    "order_date": "2023-03-31 18:14:01",
+    "product_id": 52,
+    "selling_price": 64.24,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 757,
+    "inventory_id": 29,
+    "order_date": "2023-03-19 03:26:54",
+    "product_id": 18,
+    "selling_price": 11.17,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 758,
+    "inventory_id": 12,
+    "order_date": "2023-03-09 08:46:17",
+    "product_id": 74,
+    "selling_price": 67.51,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 759,
+    "inventory_id": 28,
+    "order_date": "2022-05-13 03:44:19",
+    "product_id": 27,
+    "selling_price": 46.46,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 760,
+    "inventory_id": 9,
+    "order_date": "2023-01-29 04:53:43",
+    "product_id": 38,
+    "selling_price": 2.66,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 761,
+    "inventory_id": 28,
+    "order_date": "2023-02-15 08:55:43",
+    "product_id": 19,
+    "selling_price": 60.78,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 762,
+    "inventory_id": 13,
+    "order_date": "2023-03-23 07:09:37",
+    "product_id": 70,
+    "selling_price": 90,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 763,
+    "inventory_id": 11,
+    "order_date": "2023-01-30 06:33:49",
+    "product_id": 62,
+    "selling_price": 88.58,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 764,
+    "inventory_id": 21,
+    "order_date": "2022-06-09 09:59:32",
+    "product_id": 75,
+    "selling_price": 13.13,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 765,
+    "inventory_id": 37,
+    "order_date": "2023-01-28 02:24:57",
+    "product_id": 4,
+    "selling_price": 46.58,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 766,
+    "inventory_id": 21,
+    "order_date": "2022-10-10 18:21:19",
+    "product_id": 45,
+    "selling_price": 11.86,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 767,
+    "inventory_id": 35,
+    "order_date": "2022-12-06 22:01:14",
+    "product_id": 79,
+    "selling_price": 25.54,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 768,
+    "inventory_id": 7,
+    "order_date": "2022-10-30 03:42:10",
+    "product_id": 44,
+    "selling_price": 25.04,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 769,
+    "inventory_id": 28,
+    "order_date": "2022-05-31 09:17:00",
+    "product_id": 9,
+    "selling_price": 54.17,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 770,
+    "inventory_id": 16,
+    "order_date": "2022-10-31 18:47:48",
+    "product_id": 88,
+    "selling_price": 85.34,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 771,
+    "inventory_id": 18,
+    "order_date": "2023-02-21 20:10:01",
+    "product_id": 55,
+    "selling_price": 8.9,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 772,
+    "inventory_id": 30,
+    "order_date": "2022-09-01 20:33:21",
+    "product_id": 8,
+    "selling_price": 95.76,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 773,
+    "inventory_id": 6,
+    "order_date": "2023-01-15 19:17:16",
+    "product_id": 84,
+    "selling_price": 21.26,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 774,
+    "inventory_id": 17,
+    "order_date": "2022-07-19 22:40:14",
+    "product_id": 88,
+    "selling_price": 37.93,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 775,
+    "inventory_id": 13,
+    "order_date": "2022-07-08 23:48:06",
+    "product_id": 86,
+    "selling_price": 17.26,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 776,
+    "inventory_id": 4,
+    "order_date": "2022-11-10 01:43:27",
+    "product_id": 43,
+    "selling_price": 45.59,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 777,
+    "inventory_id": 20,
+    "order_date": "2022-10-01 02:04:08",
+    "product_id": 64,
+    "selling_price": 51.95,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 778,
+    "inventory_id": 12,
+    "order_date": "2023-04-08 17:38:33",
+    "product_id": 51,
+    "selling_price": 81.01,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 779,
+    "inventory_id": 12,
+    "order_date": "2022-07-27 16:20:50",
+    "product_id": 22,
+    "selling_price": 33.72,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 780,
+    "inventory_id": 7,
+    "order_date": "2022-10-01 06:33:59",
+    "product_id": 42,
+    "selling_price": 94.34,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 781,
+    "inventory_id": 13,
+    "order_date": "2023-01-02 03:32:38",
+    "product_id": 37,
+    "selling_price": 42.08,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 782,
+    "inventory_id": 4,
+    "order_date": "2023-04-14 04:10:57",
+    "product_id": 10,
+    "selling_price": 87.66,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 783,
+    "inventory_id": 26,
+    "order_date": "2022-06-25 09:29:10",
+    "product_id": 24,
+    "selling_price": 14.57,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 784,
+    "inventory_id": 29,
+    "order_date": "2022-11-11 20:41:08",
+    "product_id": 19,
+    "selling_price": 73.02,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 785,
+    "inventory_id": 30,
+    "order_date": "2022-07-31 01:57:40",
+    "product_id": 34,
+    "selling_price": 75.72,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 786,
+    "inventory_id": 17,
+    "order_date": "2022-08-24 08:58:08",
+    "product_id": 14,
+    "selling_price": 83.56,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 787,
+    "inventory_id": 34,
+    "order_date": "2022-10-26 01:02:59",
+    "product_id": 67,
+    "selling_price": 33.36,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 788,
+    "inventory_id": 17,
+    "order_date": "2023-04-13 02:30:15",
+    "product_id": 33,
+    "selling_price": 68.79,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 789,
+    "inventory_id": 37,
+    "order_date": "2022-06-22 01:08:56",
+    "product_id": 39,
+    "selling_price": 12.68,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 790,
+    "inventory_id": 6,
+    "order_date": "2022-08-22 07:14:08",
+    "product_id": 33,
+    "selling_price": 59.59,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 791,
+    "inventory_id": 15,
+    "order_date": "2023-03-06 14:38:19",
+    "product_id": 79,
+    "selling_price": 3.52,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 792,
+    "inventory_id": 25,
+    "order_date": "2022-12-19 20:40:31",
+    "product_id": 41,
+    "selling_price": 47.95,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 793,
+    "inventory_id": 37,
+    "order_date": "2022-07-13 08:35:26",
+    "product_id": 13,
+    "selling_price": 44.71,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 794,
+    "inventory_id": 32,
+    "order_date": "2023-01-28 19:16:35",
+    "product_id": 56,
+    "selling_price": 72.64,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 795,
+    "inventory_id": 11,
+    "order_date": "2023-03-16 12:37:17",
+    "product_id": 86,
+    "selling_price": 3.2,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 796,
+    "inventory_id": 6,
+    "order_date": "2022-11-22 01:17:30",
+    "product_id": 81,
+    "selling_price": 68.81,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 797,
+    "inventory_id": 12,
+    "order_date": "2022-06-24 22:36:37",
+    "product_id": 60,
+    "selling_price": 66.57,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 798,
+    "inventory_id": 2,
+    "order_date": "2022-11-12 07:59:36",
+    "product_id": 90,
+    "selling_price": 84.91,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 799,
+    "inventory_id": 35,
+    "order_date": "2022-06-06 03:44:48",
+    "product_id": 6,
+    "selling_price": 11.42,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 800,
+    "inventory_id": 39,
+    "order_date": "2023-04-02 10:33:58",
+    "product_id": 80,
+    "selling_price": 42.94,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 801,
+    "inventory_id": 29,
+    "order_date": "2022-11-24 23:29:55",
+    "product_id": 2,
+    "selling_price": 97.06,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 802,
+    "inventory_id": 39,
+    "order_date": "2023-02-06 07:04:16",
+    "product_id": 29,
+    "selling_price": 68.34,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 803,
+    "inventory_id": 29,
+    "order_date": "2022-04-22 00:04:21",
+    "product_id": 76,
+    "selling_price": 51.32,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 804,
+    "inventory_id": 34,
+    "order_date": "2022-07-26 18:03:29",
+    "product_id": 55,
+    "selling_price": 30.15,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 805,
+    "inventory_id": 32,
+    "order_date": "2022-12-16 14:21:53",
+    "product_id": 71,
+    "selling_price": 22.75,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 806,
+    "inventory_id": 33,
+    "order_date": "2022-11-30 00:58:46",
+    "product_id": 31,
+    "selling_price": 98.18,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 807,
+    "inventory_id": 6,
+    "order_date": "2022-07-23 18:47:12",
+    "product_id": 46,
+    "selling_price": 88.7,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 808,
+    "inventory_id": 9,
+    "order_date": "2023-02-07 00:08:41",
+    "product_id": 32,
+    "selling_price": 36.12,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 809,
+    "inventory_id": 1,
+    "order_date": "2022-09-07 20:43:10",
+    "product_id": 97,
+    "selling_price": 54.55,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 810,
+    "inventory_id": 24,
+    "order_date": "2022-07-13 13:18:58",
+    "product_id": 100,
+    "selling_price": 50.72,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 811,
+    "inventory_id": 36,
+    "order_date": "2022-10-16 04:02:56",
+    "product_id": 32,
+    "selling_price": 63.61,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 812,
+    "inventory_id": 9,
+    "order_date": "2022-11-24 12:09:41",
+    "product_id": 43,
+    "selling_price": 20.37,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 813,
+    "inventory_id": 29,
+    "order_date": "2022-11-08 18:18:28",
+    "product_id": 7,
+    "selling_price": 24.46,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 814,
+    "inventory_id": 17,
+    "order_date": "2023-01-15 04:43:28",
+    "product_id": 12,
+    "selling_price": 23.75,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 815,
+    "inventory_id": 28,
+    "order_date": "2022-08-13 02:37:11",
+    "product_id": 52,
+    "selling_price": 54.28,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 816,
+    "inventory_id": 1,
+    "order_date": "2022-08-10 01:36:29",
+    "product_id": 53,
+    "selling_price": 84.29,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 817,
+    "inventory_id": 3,
+    "order_date": "2022-10-29 12:03:15",
+    "product_id": 19,
+    "selling_price": 25.39,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 818,
+    "inventory_id": 30,
+    "order_date": "2023-03-28 01:17:20",
+    "product_id": 99,
+    "selling_price": 92.44,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 819,
+    "inventory_id": 30,
+    "order_date": "2022-10-29 15:12:56",
+    "product_id": 45,
+    "selling_price": 49.77,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 820,
+    "inventory_id": 33,
+    "order_date": "2023-03-20 20:18:36",
+    "product_id": 72,
+    "selling_price": 26.01,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 821,
+    "inventory_id": 8,
+    "order_date": "2022-08-28 17:33:34",
+    "product_id": 47,
+    "selling_price": 70.02,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 822,
+    "inventory_id": 7,
+    "order_date": "2022-05-03 04:15:02",
+    "product_id": 37,
+    "selling_price": 63.05,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 823,
+    "inventory_id": 36,
+    "order_date": "2022-09-26 22:59:11",
+    "product_id": 18,
+    "selling_price": 86.65,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 824,
+    "inventory_id": 28,
+    "order_date": "2022-11-19 05:07:55",
+    "product_id": 97,
+    "selling_price": 64.43,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 825,
+    "inventory_id": 13,
+    "order_date": "2023-01-17 04:29:56",
+    "product_id": 44,
+    "selling_price": 94,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 826,
+    "inventory_id": 14,
+    "order_date": "2022-09-20 15:18:24",
+    "product_id": 93,
+    "selling_price": 50.78,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 827,
+    "inventory_id": 5,
+    "order_date": "2023-02-10 18:46:49",
+    "product_id": 38,
+    "selling_price": 11.05,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 828,
+    "inventory_id": 21,
+    "order_date": "2022-07-25 18:16:18",
+    "product_id": 23,
+    "selling_price": 49.01,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 829,
+    "inventory_id": 40,
+    "order_date": "2022-06-19 03:03:30",
+    "product_id": 48,
+    "selling_price": 85.57,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 830,
+    "inventory_id": 35,
+    "order_date": "2022-08-18 04:42:15",
+    "product_id": 37,
+    "selling_price": 90.7,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 831,
+    "inventory_id": 37,
+    "order_date": "2023-04-12 11:39:59",
+    "product_id": 62,
+    "selling_price": 41.21,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 832,
+    "inventory_id": 25,
+    "order_date": "2023-02-28 18:07:38",
+    "product_id": 9,
+    "selling_price": 18.93,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 833,
+    "inventory_id": 2,
+    "order_date": "2022-10-16 14:26:36",
+    "product_id": 44,
+    "selling_price": 94.36,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 834,
+    "inventory_id": 5,
+    "order_date": "2022-12-07 09:28:09",
+    "product_id": 37,
+    "selling_price": 14.17,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 835,
+    "inventory_id": 10,
+    "order_date": "2023-02-08 17:50:59",
+    "product_id": 55,
+    "selling_price": 20.77,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 836,
+    "inventory_id": 18,
+    "order_date": "2023-02-15 00:25:50",
+    "product_id": 32,
+    "selling_price": 29.94,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 837,
+    "inventory_id": 37,
+    "order_date": "2022-08-19 06:29:56",
+    "product_id": 36,
+    "selling_price": 2.81,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 838,
+    "inventory_id": 11,
+    "order_date": "2022-10-18 10:59:38",
+    "product_id": 71,
+    "selling_price": 13.56,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 839,
+    "inventory_id": 30,
+    "order_date": "2022-08-20 22:54:16",
+    "product_id": 27,
+    "selling_price": 75.63,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 840,
+    "inventory_id": 31,
+    "order_date": "2022-11-27 20:10:01",
+    "product_id": 95,
+    "selling_price": 8.78,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 841,
+    "inventory_id": 22,
+    "order_date": "2022-08-25 23:51:27",
+    "product_id": 31,
+    "selling_price": 87.13,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 842,
+    "inventory_id": 6,
+    "order_date": "2022-10-19 19:57:51",
+    "product_id": 19,
+    "selling_price": 37.86,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 843,
+    "inventory_id": 14,
+    "order_date": "2022-06-26 04:18:34",
+    "product_id": 77,
+    "selling_price": 39.24,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 844,
+    "inventory_id": 22,
+    "order_date": "2022-10-08 03:52:01",
+    "product_id": 93,
+    "selling_price": 90.34,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 845,
+    "inventory_id": 34,
+    "order_date": "2023-02-04 00:42:12",
+    "product_id": 10,
+    "selling_price": 3.6,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 846,
+    "inventory_id": 1,
+    "order_date": "2022-10-04 15:16:38",
+    "product_id": 38,
+    "selling_price": 52.28,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 847,
+    "inventory_id": 16,
+    "order_date": "2022-12-22 17:30:18",
+    "product_id": 53,
+    "selling_price": 66.71,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 848,
+    "inventory_id": 5,
+    "order_date": "2023-01-30 11:20:27",
+    "product_id": 52,
+    "selling_price": 56.64,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 849,
+    "inventory_id": 39,
+    "order_date": "2023-04-11 08:47:11",
+    "product_id": 28,
+    "selling_price": 66.78,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 850,
+    "inventory_id": 26,
+    "order_date": "2022-06-09 20:01:35",
+    "product_id": 58,
+    "selling_price": 99.96,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 851,
+    "inventory_id": 20,
+    "order_date": "2022-05-06 04:43:12",
+    "product_id": 51,
+    "selling_price": 32.35,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 852,
+    "inventory_id": 3,
+    "order_date": "2022-10-22 20:46:23",
+    "product_id": 59,
+    "selling_price": 37.22,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 853,
+    "inventory_id": 7,
+    "order_date": "2023-04-11 03:07:29",
+    "product_id": 59,
+    "selling_price": 26.71,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 854,
+    "inventory_id": 34,
+    "order_date": "2023-02-14 12:29:35",
+    "product_id": 51,
+    "selling_price": 85.21,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 855,
+    "inventory_id": 13,
+    "order_date": "2023-03-21 04:11:36",
+    "product_id": 26,
+    "selling_price": 11.32,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 856,
+    "inventory_id": 15,
+    "order_date": "2022-10-19 04:29:57",
+    "product_id": 50,
+    "selling_price": 6.91,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 857,
+    "inventory_id": 9,
+    "order_date": "2022-05-06 13:51:10",
+    "product_id": 67,
+    "selling_price": 80.44,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 858,
+    "inventory_id": 23,
+    "order_date": "2022-07-06 09:48:56",
+    "product_id": 68,
+    "selling_price": 98.74,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 859,
+    "inventory_id": 7,
+    "order_date": "2022-07-01 07:15:02",
+    "product_id": 51,
+    "selling_price": 63.26,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 860,
+    "inventory_id": 36,
+    "order_date": "2023-01-08 03:50:53",
+    "product_id": 78,
+    "selling_price": 42.65,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 861,
+    "inventory_id": 2,
+    "order_date": "2023-02-16 20:12:38",
+    "product_id": 89,
+    "selling_price": 22.26,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 862,
+    "inventory_id": 26,
+    "order_date": "2023-01-17 20:38:47",
+    "product_id": 33,
+    "selling_price": 92.11,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 863,
+    "inventory_id": 11,
+    "order_date": "2022-06-28 17:59:28",
+    "product_id": 26,
+    "selling_price": 49.85,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 864,
+    "inventory_id": 10,
+    "order_date": "2022-09-04 14:29:07",
+    "product_id": 5,
+    "selling_price": 97.95,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 865,
+    "inventory_id": 37,
+    "order_date": "2022-12-27 03:12:20",
+    "product_id": 61,
+    "selling_price": 22.45,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 866,
+    "inventory_id": 36,
+    "order_date": "2022-10-15 19:20:24",
+    "product_id": 9,
+    "selling_price": 10.1,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 867,
+    "inventory_id": 18,
+    "order_date": "2023-03-28 07:47:07",
+    "product_id": 46,
+    "selling_price": 97.8,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 868,
+    "inventory_id": 18,
+    "order_date": "2022-06-22 02:51:14",
+    "product_id": 1,
+    "selling_price": 58.75,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 869,
+    "inventory_id": 22,
+    "order_date": "2022-12-03 13:23:29",
+    "product_id": 4,
+    "selling_price": 74.46,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 870,
+    "inventory_id": 1,
+    "order_date": "2023-03-02 11:11:04",
+    "product_id": 67,
+    "selling_price": 4.54,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 871,
+    "inventory_id": 6,
+    "order_date": "2022-04-28 11:22:54",
+    "product_id": 34,
+    "selling_price": 17.58,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 872,
+    "inventory_id": 18,
+    "order_date": "2022-05-10 19:32:02",
+    "product_id": 81,
+    "selling_price": 44.66,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 873,
+    "inventory_id": 6,
+    "order_date": "2023-03-17 17:24:55",
+    "product_id": 78,
+    "selling_price": 75.49,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 874,
+    "inventory_id": 1,
+    "order_date": "2022-11-12 07:24:26",
+    "product_id": 97,
+    "selling_price": 31.66,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 875,
+    "inventory_id": 18,
+    "order_date": "2022-07-24 06:26:27",
+    "product_id": 88,
+    "selling_price": 4.09,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 876,
+    "inventory_id": 16,
+    "order_date": "2022-10-11 19:48:59",
+    "product_id": 75,
+    "selling_price": 41.22,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 877,
+    "inventory_id": 20,
+    "order_date": "2023-02-03 11:14:19",
+    "product_id": 37,
+    "selling_price": 5.51,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 878,
+    "inventory_id": 7,
+    "order_date": "2022-10-15 04:46:00",
+    "product_id": 25,
+    "selling_price": 51.17,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 879,
+    "inventory_id": 39,
+    "order_date": "2022-09-14 03:16:13",
+    "product_id": 10,
+    "selling_price": 15.67,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 880,
+    "inventory_id": 8,
+    "order_date": "2022-05-23 19:18:18",
+    "product_id": 67,
+    "selling_price": 57.93,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 881,
+    "inventory_id": 7,
+    "order_date": "2022-12-30 22:22:05",
+    "product_id": 57,
+    "selling_price": 78.74,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 882,
+    "inventory_id": 22,
+    "order_date": "2023-01-04 23:34:16",
+    "product_id": 61,
+    "selling_price": 51.32,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 883,
+    "inventory_id": 35,
+    "order_date": "2022-06-10 02:57:23",
+    "product_id": 45,
+    "selling_price": 62.78,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 884,
+    "inventory_id": 32,
+    "order_date": "2022-11-01 15:17:45",
+    "product_id": 52,
+    "selling_price": 22.38,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 885,
+    "inventory_id": 3,
+    "order_date": "2022-07-28 07:01:25",
+    "product_id": 31,
+    "selling_price": 27.29,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 886,
+    "inventory_id": 7,
+    "order_date": "2022-07-01 01:55:56",
+    "product_id": 61,
+    "selling_price": 51.32,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 887,
+    "inventory_id": 21,
+    "order_date": "2023-02-13 21:19:11",
+    "product_id": 18,
+    "selling_price": 25.39,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 888,
+    "inventory_id": 14,
+    "order_date": "2022-07-14 07:54:08",
+    "product_id": 41,
+    "selling_price": 36.61,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 889,
+    "inventory_id": 16,
+    "order_date": "2022-12-10 21:08:20",
+    "product_id": 22,
+    "selling_price": 82.31,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 890,
+    "inventory_id": 12,
+    "order_date": "2023-03-13 07:59:50",
+    "product_id": 30,
+    "selling_price": 1.85,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 891,
+    "inventory_id": 14,
+    "order_date": "2023-01-10 03:26:06",
+    "product_id": 46,
+    "selling_price": 23.31,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 892,
+    "inventory_id": 19,
+    "order_date": "2022-10-22 15:33:53",
+    "product_id": 43,
+    "selling_price": 69.12,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 893,
+    "inventory_id": 11,
+    "order_date": "2022-10-31 20:24:16",
+    "product_id": 87,
+    "selling_price": 23.91,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 894,
+    "inventory_id": 33,
+    "order_date": "2023-03-26 14:49:15",
+    "product_id": 25,
+    "selling_price": 49.72,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 895,
+    "inventory_id": 9,
+    "order_date": "2022-09-18 10:23:44",
+    "product_id": 98,
+    "selling_price": 46.24,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 896,
+    "inventory_id": 29,
+    "order_date": "2022-06-19 12:33:23",
+    "product_id": 64,
+    "selling_price": 41.55,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 897,
+    "inventory_id": 26,
+    "order_date": "2022-09-02 11:03:47",
+    "product_id": 82,
+    "selling_price": 18.55,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 898,
+    "inventory_id": 26,
+    "order_date": "2022-11-17 12:16:22",
+    "product_id": 33,
+    "selling_price": 62.13,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 899,
+    "inventory_id": 19,
+    "order_date": "2023-01-06 15:41:52",
+    "product_id": 93,
+    "selling_price": 44.32,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 900,
+    "inventory_id": 40,
+    "order_date": "2022-05-10 01:41:49",
+    "product_id": 67,
+    "selling_price": 94.66,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 901,
+    "inventory_id": 19,
+    "order_date": "2022-07-06 13:49:07",
+    "product_id": 27,
+    "selling_price": 29.13,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 902,
+    "inventory_id": 13,
+    "order_date": "2022-10-06 02:42:52",
+    "product_id": 77,
+    "selling_price": 79.82,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 903,
+    "inventory_id": 30,
+    "order_date": "2022-07-09 04:20:09",
+    "product_id": 99,
+    "selling_price": 9.99,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 904,
+    "inventory_id": 15,
+    "order_date": "2023-01-21 00:08:06",
+    "product_id": 42,
+    "selling_price": 3.21,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 905,
+    "inventory_id": 32,
+    "order_date": "2023-04-07 22:40:22",
+    "product_id": 23,
+    "selling_price": 97.87,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 906,
+    "inventory_id": 5,
+    "order_date": "2022-11-30 15:16:46",
+    "product_id": 19,
+    "selling_price": 46.91,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 907,
+    "inventory_id": 27,
+    "order_date": "2022-07-30 14:28:45",
+    "product_id": 96,
+    "selling_price": 49.91,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 908,
+    "inventory_id": 31,
+    "order_date": "2022-08-23 23:55:29",
+    "product_id": 7,
+    "selling_price": 43.8,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 909,
+    "inventory_id": 39,
+    "order_date": "2023-02-28 19:52:01",
+    "product_id": 56,
+    "selling_price": 23.53,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 910,
+    "inventory_id": 7,
+    "order_date": "2023-03-27 07:34:17",
+    "product_id": 73,
+    "selling_price": 98.94,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 911,
+    "inventory_id": 17,
+    "order_date": "2023-03-27 23:50:44",
+    "product_id": 31,
+    "selling_price": 26.69,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 912,
+    "inventory_id": 9,
+    "order_date": "2023-02-23 23:24:32",
+    "product_id": 9,
+    "selling_price": 60.94,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 913,
+    "inventory_id": 4,
+    "order_date": "2022-12-29 09:56:52",
+    "product_id": 15,
+    "selling_price": 44.48,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 914,
+    "inventory_id": 6,
+    "order_date": "2022-04-23 08:41:30",
+    "product_id": 1,
+    "selling_price": 13.03,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 915,
+    "inventory_id": 18,
+    "order_date": "2022-09-26 22:00:43",
+    "product_id": 59,
+    "selling_price": 45.51,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 916,
+    "inventory_id": 25,
+    "order_date": "2022-09-25 02:24:12",
+    "product_id": 5,
+    "selling_price": 66.06,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 917,
+    "inventory_id": 9,
+    "order_date": "2023-01-10 08:00:23",
+    "product_id": 6,
+    "selling_price": 37.47,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 918,
+    "inventory_id": 33,
+    "order_date": "2023-03-07 22:52:59",
+    "product_id": 34,
+    "selling_price": 45.57,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 919,
+    "inventory_id": 25,
+    "order_date": "2023-03-28 15:17:12",
+    "product_id": 19,
+    "selling_price": 30.65,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 920,
+    "inventory_id": 5,
+    "order_date": "2022-11-17 01:06:45",
+    "product_id": 80,
+    "selling_price": 8.91,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 921,
+    "inventory_id": 38,
+    "order_date": "2022-10-08 00:14:41",
+    "product_id": 31,
+    "selling_price": 54.79,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 922,
+    "inventory_id": 21,
+    "order_date": "2022-09-21 00:50:04",
+    "product_id": 93,
+    "selling_price": 38.83,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 923,
+    "inventory_id": 19,
+    "order_date": "2022-07-22 08:19:13",
+    "product_id": 47,
+    "selling_price": 25.31,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 924,
+    "inventory_id": 33,
+    "order_date": "2022-08-27 16:30:00",
+    "product_id": 98,
+    "selling_price": 48.19,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 925,
+    "inventory_id": 14,
+    "order_date": "2022-05-10 05:40:55",
+    "product_id": 30,
+    "selling_price": 47.69,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 926,
+    "inventory_id": 14,
+    "order_date": "2022-12-05 17:27:54",
+    "product_id": 73,
+    "selling_price": 10.95,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 927,
+    "inventory_id": 32,
+    "order_date": "2022-06-07 17:35:51",
+    "product_id": 66,
+    "selling_price": 31.97,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 928,
+    "inventory_id": 38,
+    "order_date": "2023-04-03 17:44:25",
+    "product_id": 86,
+    "selling_price": 95.13,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 929,
+    "inventory_id": 4,
+    "order_date": "2022-12-19 01:37:41",
+    "product_id": 76,
+    "selling_price": 75.83,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 930,
+    "inventory_id": 20,
+    "order_date": "2022-11-28 20:39:53",
+    "product_id": 27,
+    "selling_price": 2.32,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 931,
+    "inventory_id": 37,
+    "order_date": "2022-09-03 08:37:00",
+    "product_id": 96,
+    "selling_price": 47.09,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 932,
+    "inventory_id": 24,
+    "order_date": "2023-03-06 11:42:19",
+    "product_id": 92,
+    "selling_price": 56.92,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 933,
+    "inventory_id": 22,
+    "order_date": "2023-03-29 18:44:53",
+    "product_id": 65,
+    "selling_price": 66.74,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 934,
+    "inventory_id": 6,
+    "order_date": "2022-09-25 18:52:23",
+    "product_id": 70,
+    "selling_price": 75.01,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 935,
+    "inventory_id": 11,
+    "order_date": "2023-02-14 04:19:39",
+    "product_id": 85,
+    "selling_price": 1.17,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 936,
+    "inventory_id": 11,
+    "order_date": "2023-04-11 20:22:03",
+    "product_id": 78,
+    "selling_price": 80.58,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 937,
+    "inventory_id": 36,
+    "order_date": "2022-07-23 23:31:54",
+    "product_id": 13,
+    "selling_price": 39.82,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 938,
+    "inventory_id": 29,
+    "order_date": "2022-09-28 21:34:53",
+    "product_id": 26,
+    "selling_price": 42.69,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 939,
+    "inventory_id": 32,
+    "order_date": "2022-10-18 12:38:37",
+    "product_id": 48,
+    "selling_price": 81.73,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 940,
+    "inventory_id": 11,
+    "order_date": "2023-03-29 17:03:58",
+    "product_id": 45,
+    "selling_price": 55.15,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 941,
+    "inventory_id": 2,
+    "order_date": "2022-12-09 06:08:08",
+    "product_id": 97,
+    "selling_price": 51.56,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 942,
+    "inventory_id": 8,
+    "order_date": "2022-11-29 03:35:42",
+    "product_id": 17,
+    "selling_price": 85,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 943,
+    "inventory_id": 19,
+    "order_date": "2022-09-26 22:27:47",
+    "product_id": 85,
+    "selling_price": 64.43,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 944,
+    "inventory_id": 23,
+    "order_date": "2023-03-12 18:09:30",
+    "product_id": 9,
+    "selling_price": 90.98,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 945,
+    "inventory_id": 40,
+    "order_date": "2022-09-02 02:53:38",
+    "product_id": 93,
+    "selling_price": 90.34,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 946,
+    "inventory_id": 1,
+    "order_date": "2023-01-14 21:16:38",
+    "product_id": 57,
+    "selling_price": 63.7,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 947,
+    "inventory_id": 1,
+    "order_date": "2023-04-02 10:08:31",
+    "product_id": 79,
+    "selling_price": 88.88,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 948,
+    "inventory_id": 12,
+    "order_date": "2022-07-17 00:24:29",
+    "product_id": 6,
+    "selling_price": 7.05,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 949,
+    "inventory_id": 18,
+    "order_date": "2022-05-29 16:30:35",
+    "product_id": 58,
+    "selling_price": 29.53,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 950,
+    "inventory_id": 3,
+    "order_date": "2022-08-18 00:58:04",
+    "product_id": 42,
+    "selling_price": 59.94,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 951,
+    "inventory_id": 37,
+    "order_date": "2023-02-13 07:00:15",
+    "product_id": 51,
+    "selling_price": 75.35,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 952,
+    "inventory_id": 5,
+    "order_date": "2022-09-19 01:41:23",
+    "product_id": 52,
+    "selling_price": 98.86,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 953,
+    "inventory_id": 28,
+    "order_date": "2022-10-08 13:32:20",
+    "product_id": 65,
+    "selling_price": 42.75,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 954,
+    "inventory_id": 38,
+    "order_date": "2022-06-12 07:46:23",
+    "product_id": 34,
+    "selling_price": 75.84,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 955,
+    "inventory_id": 29,
+    "order_date": "2022-08-12 08:55:33",
+    "product_id": 56,
+    "selling_price": 97.48,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 956,
+    "inventory_id": 13,
+    "order_date": "2022-11-22 07:46:10",
+    "product_id": 81,
+    "selling_price": 32.2,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 957,
+    "inventory_id": 9,
+    "order_date": "2022-05-10 12:06:19",
+    "product_id": 1,
+    "selling_price": 20.24,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 958,
+    "inventory_id": 3,
+    "order_date": "2022-06-08 12:07:30",
+    "product_id": 35,
+    "selling_price": 23.33,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 959,
+    "inventory_id": 33,
+    "order_date": "2022-11-15 20:02:32",
+    "product_id": 79,
+    "selling_price": 27.18,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 960,
+    "inventory_id": 13,
+    "order_date": "2023-02-14 03:35:09",
+    "product_id": 75,
+    "selling_price": 73.65,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 961,
+    "inventory_id": 5,
+    "order_date": "2023-01-28 20:49:03",
+    "product_id": 64,
+    "selling_price": 73.82,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 962,
+    "inventory_id": 29,
+    "order_date": "2022-07-23 00:39:00",
+    "product_id": 43,
+    "selling_price": 12.36,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 963,
+    "inventory_id": 29,
+    "order_date": "2022-05-04 18:14:50",
+    "product_id": 34,
+    "selling_price": 46.69,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 964,
+    "inventory_id": 27,
+    "order_date": "2022-06-29 04:42:55",
+    "product_id": 2,
+    "selling_price": 80.05,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 965,
+    "inventory_id": 5,
+    "order_date": "2022-04-16 08:07:29",
+    "product_id": 22,
+    "selling_price": 17.68,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 966,
+    "inventory_id": 29,
+    "order_date": "2023-03-18 00:58:15",
+    "product_id": 30,
+    "selling_price": 2.84,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 967,
+    "inventory_id": 26,
+    "order_date": "2022-05-23 23:39:21",
+    "product_id": 60,
+    "selling_price": 82.02,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 968,
+    "inventory_id": 13,
+    "order_date": "2022-08-13 18:53:27",
+    "product_id": 51,
+    "selling_price": 65.71,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 969,
+    "inventory_id": 23,
+    "order_date": "2022-10-30 08:15:54",
+    "product_id": 42,
+    "selling_price": 39.13,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 970,
+    "inventory_id": 29,
+    "order_date": "2022-09-17 19:14:37",
+    "product_id": 79,
+    "selling_price": 81.73,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 971,
+    "inventory_id": 17,
+    "order_date": "2022-06-25 12:57:49",
+    "product_id": 49,
+    "selling_price": 99.13,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 972,
+    "inventory_id": 23,
+    "order_date": "2023-02-23 15:56:48",
+    "product_id": 48,
+    "selling_price": 85.3,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 973,
+    "inventory_id": 40,
+    "order_date": "2022-10-18 07:17:52",
+    "product_id": 92,
+    "selling_price": 43.98,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 974,
+    "inventory_id": 11,
+    "order_date": "2022-09-16 06:06:43",
+    "product_id": 40,
+    "selling_price": 95,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 975,
+    "inventory_id": 36,
+    "order_date": "2023-02-28 08:10:40",
+    "product_id": 41,
+    "selling_price": 16,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 976,
+    "inventory_id": 30,
+    "order_date": "2022-05-23 19:51:34",
+    "product_id": 94,
+    "selling_price": 35.82,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 977,
+    "inventory_id": 19,
+    "order_date": "2022-06-15 02:59:43",
+    "product_id": 33,
+    "selling_price": 21.61,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 978,
+    "inventory_id": 34,
+    "order_date": "2022-07-25 07:46:29",
+    "product_id": 70,
+    "selling_price": 83.2,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 979,
+    "inventory_id": 10,
+    "order_date": "2022-11-10 12:58:51",
+    "product_id": 1,
+    "selling_price": 47.69,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 980,
+    "inventory_id": 28,
+    "order_date": "2023-02-28 13:31:10",
+    "product_id": 28,
+    "selling_price": 13.57,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 981,
+    "inventory_id": 22,
+    "order_date": "2022-07-25 01:46:39",
+    "product_id": 56,
+    "selling_price": 91.75,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 982,
+    "inventory_id": 38,
+    "order_date": "2022-07-23 13:38:30",
+    "product_id": 85,
+    "selling_price": 4.33,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 983,
+    "inventory_id": 10,
+    "order_date": "2022-04-29 18:54:14",
+    "product_id": 46,
+    "selling_price": 4.44,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 984,
+    "inventory_id": 18,
+    "order_date": "2022-11-12 02:45:43",
+    "product_id": 55,
+    "selling_price": 87,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 985,
+    "inventory_id": 23,
+    "order_date": "2023-01-10 07:48:22",
+    "product_id": 35,
+    "selling_price": 28.83,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 986,
+    "inventory_id": 3,
+    "order_date": "2023-04-11 10:23:56",
+    "product_id": 23,
+    "selling_price": 81.99,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 987,
+    "inventory_id": 11,
+    "order_date": "2022-11-30 19:38:49",
+    "product_id": 98,
+    "selling_price": 76.34,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 988,
+    "inventory_id": 23,
+    "order_date": "2022-08-28 09:38:55",
+    "product_id": 3,
+    "selling_price": 89.32,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 989,
+    "inventory_id": 36,
+    "order_date": "2023-04-12 19:31:29",
+    "product_id": 99,
+    "selling_price": 62.77,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 990,
+    "inventory_id": 17,
+    "order_date": "2022-10-07 11:53:30",
+    "product_id": 69,
+    "selling_price": 38.24,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 991,
+    "inventory_id": 16,
+    "order_date": "2022-06-19 01:46:37",
+    "product_id": 23,
+    "selling_price": 70.49,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 992,
+    "inventory_id": 20,
+    "order_date": "2022-05-22 09:28:49",
+    "product_id": 60,
+    "selling_price": 61.67,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 993,
+    "inventory_id": 37,
+    "order_date": "2023-01-09 14:47:32",
+    "product_id": 51,
+    "selling_price": 64.97,
+    "quantity_ordered": 4
+  },
+  {
+    "order_id": 994,
+    "inventory_id": 35,
+    "order_date": "2023-03-11 08:24:03",
+    "product_id": 36,
+    "selling_price": 56.24,
+    "quantity_ordered": 2
+  },
+  {
+    "order_id": 995,
+    "inventory_id": 7,
+    "order_date": "2023-01-06 10:18:49",
+    "product_id": 8,
+    "selling_price": 31.43,
+    "quantity_ordered": 1
+  },
+  {
+    "order_id": 996,
+    "inventory_id": 21,
+    "order_date": "2022-11-14 10:12:05",
+    "product_id": 55,
+    "selling_price": 62.6,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 997,
+    "inventory_id": 8,
+    "order_date": "2022-08-02 15:55:59",
+    "product_id": 19,
+    "selling_price": 20.32,
+    "quantity_ordered": 5
+  },
+  {
+    "order_id": 998,
+    "inventory_id": 2,
+    "order_date": "2023-04-04 01:22:54",
+    "product_id": 86,
+    "selling_price": 84.16,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 999,
+    "inventory_id": 2,
+    "order_date": "2023-01-02 08:25:24",
+    "product_id": 64,
+    "selling_price": 7.86,
+    "quantity_ordered": 3
+  },
+  {
+    "order_id": 1000,
+    "inventory_id": 29,
+    "order_date": "2023-04-02 19:13:21",
+    "product_id": 34,
+    "selling_price": 96.06,
+    "quantity_ordered": 2
+  }
+]

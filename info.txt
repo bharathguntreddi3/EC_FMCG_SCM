@@ -1,0 +1,377 @@
+The database system consists of the following tables: (database online data sources)
+
+customers: stores customer information, such as their name and contact information.
+
+customerphonenumbers: stores the phone numbers associated with each customer.
+
+products: stores product information, such as product name, description, and price.
+
+productactualprices: stores the actual price of each product.
+
+sellers: stores seller information, such as their name and contact information.
+
+locations: stores the name of each location.
+
+inventorylocations: stores the location of each item in inventory.
+
+inventory: stores inventory information, such as the quantity of each product in each inventory location.
+
+orders: stores order information, such as the customer who placed the order and the date the order was placed.
+
+orderitems: stores the products ordered in each order and the quantity of each product.
+
+sales: stores sales information, such as the product sold, the quantity sold, and the date of the sale.
+
+saleitems: stores the products sold in each sale and the quantity of each product.
+
+The database system will be used to perform various operations such as:
+
+Placing orders: The system allows customers to place orders for products through the company's physical stores or online channels. The system records the order details and updates the inventory accordingly.
+
+Managing inventory: The system keeps track of the inventory levels of each product at each inventory location. When a product is sold or restocked, the inventory levels are updated accordingly.
+
+Managing sales: The system keeps track of the sales of each product at each location. The system can generate reports on sales data to help the company make business decisions.
+
+Managing suppliers: The system keeps track of the company's suppliers and the products they supply. The system can be used to manage the ordering of products from suppliers and to track the delivery of products to the company's warehouses.
+
+V1- 
+Table: customers
+
+customer_id (PK, int)
+
+customer_name (varchar)
+
+customer_address (varchar)
+
+customer_city (varchar)
+
+customer_state (varchar)
+
+customer_zip (varchar)
+
+customer_phone (varchar)
+
+customer_email (varchar)
+
+Table: customer_phone_numbers
+
+phone_number_id (PK, int)
+
+customer_id (FK, int)
+
+phone_number (varchar)
+
+Table: sellers
+
+seller_id (PK, int)
+
+seller_name (varchar)
+
+seller_address (varchar)
+
+seller_city (varchar)
+
+seller_state (varchar)
+
+seller_zip (varchar)
+
+seller_phone (varchar)
+
+seller_email (varchar)
+
+Table: locations
+
+location_id (PK, int)
+
+location_name (varchar)
+
+location_address (varchar)
+
+location_city (varchar)
+
+location_state (varchar)
+
+location_zip (varchar)
+
+Table: inventory_locations
+
+inventory_location_id (PK, int)
+
+location_id (FK, int)
+
+inventory_id (FK, int)
+
+Table: inventory
+
+inventory_id (PK, int)
+
+product_id (FK, int)
+
+quantity (int)
+
+Table: products
+
+product_id (PK, int)
+
+product_name (varchar)
+
+selling_price (decimal)
+
+expiry_date (date)
+
+profit_margin (decimal)
+
+Table: product_actual_prices
+
+product_actual_price_id (PK, int)
+
+product_id (FK, int)
+
+actual_price (decimal)
+
+actual_price_start_date (date)
+
+actual_price_end_date (date)
+
+Table: orders
+
+order_id (PK, int)
+
+customer_id (FK, int)
+
+seller_id (FK, int)
+
+order_date (datetime)
+
+Table: order_items
+
+order_id (PK, FK, int)
+
+product_id (PK, FK, int)
+
+quantity (int)
+
+price (decimal)
+
+Table: sales
+
+sale_id (PK, int)
+
+product_id (FK, int)
+
+sale_date (datetime)
+
+sale_quantity (int)
+
+sale_amount (decimal)
+
+profit_amount (decimal)
+
+Table: sale_items
+
+sale_id (PK, FK, int)
+
+product_id (PK, FK, int)
+
+quantity (int)
+
+price (decimal)
+
+
+V2.1-
+Table: customers
+
+customer_id (PK, int)
+
+customer_name (varchar)
+
+age
+
+race
+
+orgin
+
+location_ID (FK on Locations)
+
+Table: customer_contacts
+
+customer_id (PK, int, FK to customers)
+
+customer_phone (varchar)
+
+customer_email (varchar)
+
+Table: locations
+
+location_id (PK, int)
+
+location_name (varchar)
+
+location_address (varchar)
+
+location_city (varchar)
+
+location_state (varchar)
+
+location_zip (varchar)
+
+Table: inventory
+
+inventory_id (PK, int)
+
+inventory_name (varchar)
+
+inventory_location_id (FK int on Locations)
+
+Table: inventory_stocks
+
+inventory_id (FK, int)
+
+product_id (FK, int)
+
+quantity (int)
+
+Table: products
+
+product_id (PK, int)
+
+product_name (varchar)
+
+actual_price (decimal)
+
+selling_price (decimal)
+
+expiry_date (date)
+
+total_quantity (int)
+
+Table: suppliers
+
+Supplier_id ( PK Int)
+
+Supplier_name (varchar)
+
+Location_id (FK int on locations)
+
+Table: supplies
+
+supplier_id (FK int on suppliers)
+
+product_id (FK int on products)
+
+Table: purchase_orders
+
+Purchase_id (PK int)
+
+supplier_id (FK int on suppliers)
+
+product_id (FK int on products)
+
+purchase_quantity (int)
+
+unit_price (decimal)
+
+order_date (date)
+
+delivery_date (date)
+
+Table: orders
+
+order_id (PK, int)
+
+seller_id (FK, int on inventory)
+
+order_date (datetime)
+
+product_id (FK int on products)
+
+selling_price (FK decimal on products)
+
+quantity_ordered (int)
+
+Table: customer_orders
+
+order_id (FK int)
+
+customer_id (FK int)
+
+Table: sales
+
+sale_id (PK, int)
+
+product_id (FK, int)
+
+sale_date (datetime)
+
+sale_quantity (int)
+
+sale_amount (decimal)
+
+profit_amount (decimal)
+
+V2.2 - 
+500 Customers
+
+Table: customers
+
+customer_id (PK, int)
+
+customer_name (varchar)
+
+location_id (FK, int)
+
+500 Customers
+
+Table: customer_contacts
+
+customer_id ( PK FK, int)
+
+contact_type (varchar)
+
+contact_info (varchar)
+
+MASSACHUSETTS
+
+Table: locations
+
+location_id (PK, int)
+
+location_city (varchar)
+
+location_state (varchar)
+
+location_zip (varchar)
+
+40 Locations
+
+Table: inventory
+
+inventory_id (PK, int)
+
+inventory_name (varchar)
+
+location_id (FK, int)
+
+4000 Observations 
+
+Table: inventory_stocks
+
+inventory_id (FK, int)
+
+product_id (FK, int)
+
+quantity (int)
+
+100 Products
+
+Table: products
+
+product_id (PK, int)
+
+product_name (varchar)
+
+actual_price (decimal)
+
+selling_price (decimal)
+
+expiry_date (date)
